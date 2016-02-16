@@ -976,7 +976,6 @@ body:not(.custom-background-image):after {
 }
 
 #main {
-  margin-top: 100px;
   min-height: 600px;
 }
 
@@ -1049,4 +1048,20 @@ footer blockquote {
 
 .about-section h4 {
   margin-bottom: 1rem;
+}
+
+.site-branding .site-title a {
+  background: url(img/main-logo.png) no-repeat;
+  display: block;
+  height: 194px;
+  width: 524px;
+  text-indent: -9999px;
+}
+
+.site-header {
+  padding-bottom: 0;
+}
+
+.site-description {
+  font-size: 1.2rem;
 }
