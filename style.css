@@ -945,7 +945,6 @@ body {
 
 .site-description,
 .site-branding .site-title a {
-  background: rgba(255, 255, 255, 0.5);
   color: rgba(0, 0, 0, 0.87);
 }
 
@@ -1064,4 +1063,8 @@ footer blockquote {
 
 .site-description {
   font-size: 1.2rem;
+}
+
+.entry-content {
+  width: 100%;
 }
