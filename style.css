@@ -920,7 +920,7 @@
 /* mastermix main */
 
 body {
-  background-image: url(img/mainbg.jpg), url(img/footer.jpg?v2);
+  background-image: url(img/mainbg.jpg);
   background-position: center top, center bottom;
   background-repeat: no-repeat, no-repeat;
   background-color: #fff;
@@ -969,10 +969,6 @@ body:not(.custom-background-image):after {
 
 .site-info a {
   color: #fff;
-}
-
-.site-info {
-  margin: 1rem auto 0;
 }
 
 .site-footer .site-title:after {
@@ -1034,4 +1030,23 @@ h1, h2, h3 {
 .intro {
   float: left;
   width: 60%;
+}
+
+footer {
+  background: url(img/footer.jpg?v2);
+}
+
+footer blockquote {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.site-info {
+  color: #fff;
+  font-size: 1.2rem;
+  margin: 1rem auto 0;
+}
+
+.about-section h4 {
+  margin-bottom: 1rem;
 }
