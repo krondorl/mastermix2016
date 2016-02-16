@@ -12,7 +12,6 @@
       <div class="col-md-8">
         <p>A jó zene megírása és jó rögzítése után a legfontosabb fázis a mixing, azaz keverés. A mixing során beállítjuk a hangerőt, a panorámát, a dinamikát, a frekvencia eloszlást és kreatívan effektezhetünk is. Olyan szakma, ami egyszerre tudomány és művészet.</p>
         <p>Hiába hallottunk a sokak által misztikusnak tartott masteringről, ha előtte a mixünk nincs rendben, akkor azon a mastering nem fog segíteni. Ha pedig a mixing nem jó, akkor ott kell először rendet tenni.</p>
-        <p>Ebben a könyvben elsősorban a kezdő zeneszerzőknek mutatok eszközöket az otthoni sztereó mixingben, majd utána a masteringben is.</p>
         <a class="download" href="https://www.dropbox.com/s/3ek9l2hptexql0m/burucs_adam-audio_mastering_es_mixing_2015-10-30-c.zip?dl=0" target="_blank">Ingyenes letöltés</a>
       </div>
     </div>
