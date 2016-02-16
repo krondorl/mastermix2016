@@ -80,26 +80,32 @@
 
 	
 	 <h2 class="about">Rólunk</h2>
-	<div class="clearfix">
+	<div class="clearfix about-section">
       <div class="col-md-4">
+        <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/adam.jpg" alt="Burucs Ádám fotó">
         <h3>Burucs Ádám</h3>
-        <h4>alapító, szerző, mixing, mastering, zene</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro qui saepe accusamus recusandae possimus, vitae adipisci eius aut commodi ipsum voluptatum impedit. Itaque, nobis eveniet sunt dolorum laudantium vitae earum!</p>
+        <h4>szerző, mixing, mastering, zene</h4>
+        <p>A könyv szerzője és az oldal alapítója. 2012 óta ír angol nyelvű szakmai cikkeket. Karrierje zongoraleckékkel kezdődött, majd jött a zeneszerzés, hangszín-tervezés és a hangmérnöki tevékenységek.</p>
       </div>
       <div class="col-md-4">
+        <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/spet.jpg" alt="Szigetvári Zsolt fotó">
         <h3>Szigetvári Zsolt</h3>
         <h4>szakmai lektor, zenész</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quod laudantium necessitatibus culpa molestiae deserunt totam fugiat dolorem nobis nam aspernatur, magni quas mollitia molestias, doloremque minus saepe vitae magnam.</p>
+        <p>Londonban élő producer, drum and bass és rap mester.</p>
       </div>
       <div class="col-md-4">
+        <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/deepsec.jpg" alt="Dobóczi Attila fotó">
         <h3>Dobóczi Attila</h3>
         <h4>szakmai lektor, zenész</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus optio non sequi libero nesciunt aliquam autem facilis ab cupiditate rerum sapiente, consectetur similique nam blanditiis, repellendus fugit, ullam, id placeat.</p>
+        <p>Deep és progi house felelős, egyedi hangszereléssel és atmoszférával.</p>
       </div>
 	  
 	</div>
 	
 	<h2>Kapcsolat</h2>
+	
+	<img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.jpg" alt="High end studio fotó">
+	
 	<p>
       <a href="https://www.facebook.com/groups/audiomasteringesmixing/" target="_blank">Csatlakozz a FaceBook csoporthoz!</a><br>
       <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot mixing és mastering szolgáltatásra!</a>
