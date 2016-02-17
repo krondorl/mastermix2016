@@ -57,14 +57,18 @@
       <li><a href="http://hitspace.hu/miditech-midistart-music-25.html" target="_blank">Miditech MIDISTART MUSIC 25</a></li>
     </ul>
             
-    <h3>Az egyik cucc 20 Hz - 20 kHz-et tud, akkor az jó, ugye?</h3>
+    <h3>Az egyik cucc, pl. fül / fejhallgató 20 Hz - 20 kHz-et tud, akkor az jó, ugye?</h3>
     
     <p>Nem. A legtöbb ilyen sajnos marketing duma.
     Általában akkor lehet elhinni,
     ha megvan adva vizuális grafikon,
-    vagy feltűntetve a hibahatár.
-    Pl. ha a 20 Hz-et -12 dB hangerővel viszi át, abból nem sokat fogsz hallani. Példának okáért nézd meg ezt a high end hangfalat.
+    vagy feltűntetve a válaszérték.
+    Pl. ha a 20 Hz-et -50 dB hangerővel viszi át, abból nem sokat fogsz hallani :) Példának okáért nézd meg ezt a high end hangfalat.
     Az <a href="http://www.thomann.de/gb/event_opal.htm" target="_blank">Event Opal hangfalnak</a> 35 Hz az alja és darabja több mint 500.000 Ft.</p>
+    
+    <p>Érdemes megnézni az Opal frekvencia válasz diagramját.</p>
+    
+    <img src="http://www.eventelectronics.com/images/opal-freq-response-large.gif" alt="Event Opal frekvencia válasz diagram">
     
     <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
     
