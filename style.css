@@ -1078,3 +1078,7 @@ footer blockquote {
   padding-left: 0;
   padding-bottom: 1rem;
 }
+
+main footer {
+  background: none;
+}
