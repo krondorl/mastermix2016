@@ -22,6 +22,12 @@
       <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7</a></li>
     </ul>
     
+    <h3>Milyen akusztikai szivacsot vegyek a hangfal alá?</h3>
+    
+    <p>
+      <a href="http://hitspace.hu/auralex-auralex-mopad-4-pack.html" target="_blank">Auralex MoPAD 4</a>
+    </p>
+    
     <h3>Milyen fejhallgatót vegyek?</h3>
     
     <ul>
