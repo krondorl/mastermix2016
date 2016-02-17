@@ -29,34 +29,42 @@
       <li><a href="http://hitspace.hu/sony-mdr-7506.html" target="_blank">Sony MDR-7506</a></li>
       <li><a href="http://hitspace.hu/beyerdynamic-dt-770-pro-80-ohm.html" target="_blank">Beyerdynamic DT-770 Pro 80 Ohm</a></li>
       <li><a href="http://hitspace.hu/beyerdynamic-dt-990-pro.html" target="_blank">Beyerdynamic DT-990 Pro</a></li>
+      <li><a href="http://hitspace.hu/akg-k271-mkii-studio.html" target="_blank">AKG K271 MKII Studio</a></li>
     </ul>
     
     <h3>Milyen kezdő mikrofont vegyek?</h3>
     
     <ul>
-      <li><a href="http://hitspace.hu/shure-sm57.html">Shure SM57</a></li>
-      <li><a href="http://hitspace.hu/audio-technica-at-2020.html">Audio-Technica AT 2020</a></li>
+      <li><a href="http://hitspace.hu/shure-sm57.html" target="_blank">Shure SM57</a></li>
+      <li><a href="http://hitspace.hu/audio-technica-at-2020.html" target="_blank">Audio-Technica AT 2020</a></li>
     </ul>
     
     
     <h3>Milyen olcsó fülhallgatót vegyek?</h3>
 
     <p>
-      <a href="http://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/">Sennheiser MX 170</a>
+      <a href="http://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/" target="_blank">Sennheiser MX 170</a>
     </p>
 
     <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
             
     <p><a href="http://hitspace.hu/zoom-h1v2.html" target="_blank">Zoom H1</a></p>
             
+    <h3>Milyen MIDI billentyűzetet vegyek?</h3>
+            
+    <ul>
+      <li><a href="http://hitspace.hu/miditech-midistart-music-49-1.html" target="_blank">Miditech MIDISTART MUSIC 49</a></li>
+      <li><a href="http://hitspace.hu/miditech-midistart-music-25.html" target="_blank">Miditech MIDISTART MUSIC 25</a></li>
+    </ul>
+            
     <h3>Az egyik cucc 20 Hz - 20 kHz-et tud, akkor az jó, ugye?</h3>
     
     <p>Nem. A legtöbb ilyen sajnos marketing duma.
-    Csak akkor lehet elhinni,
+    Általában akkor lehet elhinni,
     ha megvan adva vizuális grafikon,
     vagy feltűntetve a hibahatár.
     Pl. ha a 20 Hz-et -12 dB hangerővel viszi át, abból nem sokat fogsz hallani. Példának okáért nézd meg ezt a high end hangfalat.
-    Az <a href="http://www.thomann.de/gb/event_opal.htm" target="_blank">Event Opal hangfalnak</a> 35 Hz az alja és darabja több mint 400.000 Ft.</p>
+    Az <a href="http://www.thomann.de/gb/event_opal.htm" target="_blank">Event Opal hangfalnak</a> 35 Hz az alja és darabja több mint 500.000 Ft.</p>
     
     <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
     
