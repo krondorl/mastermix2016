@@ -108,7 +108,7 @@
       <a href="http://www.musicradar.com/computermusic/cm-plugins-full-list-of-our-exclusive-free-vst-au-plugin-instruments-and-effects-571808" target="_blank">CM studio plugins (a magazin mellé jár kb 2000 dollár értékű plugin)</a>
     </p>
 
-    <h3>Ingyenes pluginek</h3>
+    <h3>Hol találok ingyenes plugineket?</h3>
     <ul>
       <li>
         <a href="http://bedroomproducersblog.com/free-vst-plugins/" target="_blank">Bedroom Producer Blog</a>
@@ -118,12 +118,28 @@
       </li>
     </ul>
 
-    <h3>Ingyenes hangminták</h3>
+    <h3>Hol találok ingyenes hangmintákat?</h3>
     <ul>
       <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
       <li><a href="http://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
     </ul>
 
+    <h3>Milyen YouTube csatornákat nézzek mixing és mastering témában?</h3>
+    
+    <ul>
+      <li><a href="https://www.youtube.com/channel/UC-y-8VGVtlP8zDnT60dDgkw" target="_blank">MixWithTheMASTERS</a></li>
+      <li><a href="https://www.youtube.com/channel/UCno8mYpnGhTA9COSW9sP8gQ" target="_blank">Pensado's Place</a></li>
+      <li><a href="https://www.youtube.com/channel/UCjRzsiP_aDWWLHV4-2LKBtg" target="_blank">Recording Revolution</a></li>
+    </ul>
+
+   <h3>Milyen print és online magazinokat olvassak?</h3>
+         
+    <ul>
+      <li><a href="http://www.soundonsound.com/" target="_blank">Sound On Sound</a></li>
+      <li><a href="http://www.musicradar.com/computermusic" target="_blank">Computer Music</a></li>
+      <li><a href="http://www.musicradar.com/futuremusic" target="_blank">Future Music</a></li>
+    </ul>
+         
     </main><!-- .site-main -->
 </div><!-- .content-area -->
 
