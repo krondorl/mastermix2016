@@ -84,7 +84,7 @@
         <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/adam.jpg" alt="Burucs Ádám fotó">
         <h3>Burucs Ádám</h3>
         <h4>szerző, mixing, mastering, zene</h4>
-        <p>A könyv szerzője és az oldal alapítója. 2013 óta ír angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>. Karrierje zongoraleckékkel kezdődött, majd jött a zeneszerzés, hangszín-tervezés és a hangmérnöki tevékenységek.</p>
+        <p>A könyv szerzője és az oldal alapítója. 2013 óta ír angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>. Karrierje zongoraleckékkel kezdődött, majd jött a <a href="http://adamfiregate.com/" target="_blank">zeneszerzés</a>, hangszín-tervezés és a <a href="https://www.facebook.com/afmastering/" target="_blank">hangmérnöki tevékenységek</a>.</p>
       </div>
       <div class="col-md-4">
         <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/spet.jpg" alt="Szigetvári Zsolt fotó">
