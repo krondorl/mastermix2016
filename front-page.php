@@ -84,19 +84,19 @@
         <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/adam.jpg" alt="Burucs Ádám fotó">
         <h3>Burucs Ádám</h3>
         <h4>szerző, mixing, mastering, zene</h4>
-        <p>A könyv szerzője és az oldal alapítója. 2012 óta ír angol nyelvű szakmai cikkeket. Karrierje zongoraleckékkel kezdődött, majd jött a zeneszerzés, hangszín-tervezés és a hangmérnöki tevékenységek.</p>
+        <p>A könyv szerzője és az oldal alapítója. 2013 óta ír angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>. Karrierje zongoraleckékkel kezdődött, majd jött a zeneszerzés, hangszín-tervezés és a hangmérnöki tevékenységek.</p>
       </div>
       <div class="col-md-4">
         <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/spet.jpg" alt="Szigetvári Zsolt fotó">
         <h3>Szigetvári Zsolt</h3>
         <h4>szakmai lektor, zenész</h4>
-        <p>Londonban élő producer, drum and bass és rap mester.</p>
+        <p><a href="https://soundcloud.com/spetmusic" target="_blank">Londonban élő producer</a>, drum and bass és rap mester.</p>
       </div>
       <div class="col-md-4">
         <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/deepsec.jpg" alt="Dobóczi Attila fotó">
         <h3>Dobóczi Attila</h3>
         <h4>szakmai lektor, zenész</h4>
-        <p>Deep és progi house felelős, egyedi hangszereléssel és atmoszférával.</p>
+        <p><a href="https://soundcloud.com/deepsec" target="_blank">Deep és progi house felelős</a>. Mindig van valamilyen egyedi hangszerelési ötlete. Atmoszférák megalkotója.</p>
       </div>
 	  
 	</div>
@@ -107,7 +107,7 @@
 	
 	<p>
       <a href="https://www.facebook.com/groups/audiomasteringesmixing/" target="_blank">Csatlakozz a FaceBook csoporthoz!</a><br>
-      <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot mixing és mastering szolgáltatásra!</a>
+      <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
 	</p>
 
 	<div>
