@@ -103,7 +103,7 @@
 	
 	<h2>Cikkek</h2>
 	
-	<a href="/blog" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/cikkek.png" alt="Cikkek"></a>
+	<a href="/blog"><img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/cikkek.png" alt="Cikkek"></a>
 	
 	<h2>Videók</h2>
 	
