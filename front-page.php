@@ -101,13 +101,17 @@
 	  
 	</div>
 	
+	<h2>Videók</h2>
+	
+	<a href="https://www.youtube.com/channel/UCDG-_4npV8JescQZiBb1mUg" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/videok.jpg" alt="Videók"></a>
+	
 	<h2>Kapcsolat</h2>
 	
 	<img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.jpg" alt="High end studio fotó">
 	
 	<p>
       <a href="https://www.facebook.com/groups/audiomasteringesmixing/" target="_blank">Csatlakozz a FaceBook csoporthoz!</a><br>
-      <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
+      <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot fizetős mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
 	</p>
 
 	<div>
