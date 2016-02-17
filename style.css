@@ -1068,3 +1068,13 @@ footer blockquote {
 .entry-content {
   width: 100%;
 }
+
+.site-header-menu {
+  border-bottom: 6px dashed #bbb;
+  margin: .5rem 0 3rem;
+}
+
+#menu-main {
+  padding-left: 0;
+  padding-bottom: 1rem;
+}
