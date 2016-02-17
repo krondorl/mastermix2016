@@ -31,23 +31,36 @@
       <li><a href="http://hitspace.hu/beyerdynamic-dt-990-pro.html" target="_blank">Beyerdynamic DT-990 Pro</a></li>
     </ul>
     
-    <h3>Az egyik cucc 20 Hz - 20 kHz-et tud, akkor az jó, ugye?</h3>
+    <h3>Milyen kezdő mikrofont vegyek?</h3>
     
-    <p>Nem. A legtöbb ilyen sajnos marketing duma.
-    Csak akkor lehet elhinni,
-    ha megvan adva vizuális grafikon,
-    vagy feltűntetve a hibahatár.
-    Pl. ha a 20 Hz-et -12 dB hangerővel viszi át, abból nem sokat fogsz hallani.</p>
+    <ul>
+      <li><a href="http://hitspace.hu/shure-sm57.html">Shure SM57</a></li>
+      <li><a href="http://hitspace.hu/audio-technica-at-2020.html">Audio-Technica AT 2020</a></li>
+    </ul>
     
-    <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
-    
-    <p>Nem. Mert nem a Watt-beli teljesítmény számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
     
     <h3>Milyen olcsó fülhallgatót vegyek?</h3>
 
     <p>
       <a href="http://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/">Sennheiser MX 170</a>
     </p>
+
+    <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
+            
+    <p><a href="http://hitspace.hu/zoom-h1v2.html" target="_blank">Zoom H1</a></p>
+            
+    <h3>Az egyik cucc 20 Hz - 20 kHz-et tud, akkor az jó, ugye?</h3>
+    
+    <p>Nem. A legtöbb ilyen sajnos marketing duma.
+    Csak akkor lehet elhinni,
+    ha megvan adva vizuális grafikon,
+    vagy feltűntetve a hibahatár.
+    Pl. ha a 20 Hz-et -12 dB hangerővel viszi át, abból nem sokat fogsz hallani. Példának okáért nézd meg ezt a high end hangfalat.
+    Az <a href="http://www.thomann.de/gb/event_opal.htm" target="_blank">Event Opal hangfalnak</a> 35 Hz az alja és darabja több mint 400.000 Ft.</p>
+    
+    <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
+    
+    <p>Nem. Mert nem a Watt-beli teljesítmény számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
    
     <h3>Milyen studio programot / DAW használjak kimondottan mixingre és masteringre?</h3>
 
@@ -63,6 +76,12 @@
 
     <p>Amilyet szeretnél! A hangzás a használt hangmintákon + plugineken fog múlni, és nem a studio programon.</p>
 
+    <ul>
+      <li><a href="https://www.image-line.com/flstudio/">FL Studio</a></li>
+      <li><a href="https://www.propellerheads.se/reason">Reason</a></li>
+      <li><a href="http://studioone.presonus.com/">Studio One</a></li>
+    </ul>
+    
      <h3>Milyen plugineket használjak mixingre és masteringre?</h3>
 
       <ul>
@@ -87,8 +106,13 @@
       </li>
     </ul>
 
+    <h3>Ingyenes hangminták</h3>
+    <ul>
+      <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
+      <li><a href="http://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
+    </ul>
 
-	</main><!-- .site-main -->
+    </main><!-- .site-main -->
 </div><!-- .content-area -->
 
 <?php get_footer(); ?>
