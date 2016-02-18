@@ -155,7 +155,14 @@
       <li><a href="http://www.musicradar.com/computermusic" target="_blank">Computer Music</a></li>
       <li><a href="http://www.musicradar.com/futuremusic" target="_blank">Future Music</a></li>
     </ul>
-         
+    
+    <h3>Milyen könyveket olvassak mixing és mastering témában?</h3>
+                  
+    <ul>
+      <li><a href="http://www.amazon.com/Mixing-Secrets-Small-Studio-Senior/dp/0240815807" target="_blank">Mixing Secrets for the Small Studio</a></li>
+      <li><a href="http://www.amazon.com/Mixing-Engineers-Handbook-Bobby-Owsinski/dp/128542087X/" target="_blank">The Mixing Engineer's Handbook</a></li>
+    </ul>
+                   
     </main><!-- .site-main -->
 </div><!-- .content-area -->
 
