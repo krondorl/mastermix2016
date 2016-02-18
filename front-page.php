@@ -110,7 +110,7 @@
 	
 	<a href="https://www.youtube.com/channel/UCDG-_4npV8JescQZiBb1mUg" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/videok.jpg" alt="Videók"></a>
 	
-	<h2>Kapcsolat</h2>
+	<h2 id="kapcsolat">Kapcsolat</h2>
 	
 	<img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.jpg" alt="High end studio fotó">
 	
