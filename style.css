@@ -1087,3 +1087,7 @@ main footer {
    padding: 0 !important;
    margin: 0 !important;
 }
+
+.jump-top {
+  font-size: 1.8rem;
+}

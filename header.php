@@ -10,7 +10,7 @@
 	<?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
+<body <?php body_class(); ?> id="top">
 <?php include_once("analytics.php") ?>
 <div id="page" class="site">
 	<div class="site-inner">
