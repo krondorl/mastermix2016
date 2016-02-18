@@ -7,6 +7,16 @@
 
     <p>Az alábbiakban összeírtam néhány választ kezdőknek, hogy egyszerűbb legyen dönteni.</p>
    
+    <h3>Milyen számítógépet vegyek zenei célokra?</h3>
+   <ul>
+    <li>
+      <a href="https://www.scan.co.uk/3xs/custom/daw-digital-audio-workstation-pcs/workstations#anc" target="_blank">PC - Scan.co.uk - Pro Audio Workstations</a>
+    </li>
+    <li>
+      <a href="http://www.istyle.eu/hu/mac/mac-mini/mac-mini-dual-core-i5-2-8ghz-2014.html" target="_blank">MAC - Istyle</a>
+    </li>
+   </ul>
+    
     <h3>Milyen kezdő hangkártyát vegyek?</h3>
 
     <ul>
