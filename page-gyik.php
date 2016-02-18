@@ -306,8 +306,21 @@
       </div>
     </div>
     
+    <h3>Milyen könyvet ajánlasz zeneelmélet témában?</h3>
                   
-                   
+    <ul>
+      <li><a href="http://www.panem.hu/webshop/tantusz-konyvek/zongora-cd-melleklettel-reszletek" target="_blank">Zongora - Panem kiadó (Dummies sorozat)</a></li>
+      <li><a href="http://mek.oszk.hu/00200/00208/html/" target="_blank">Kabóca zenefüzetek</a></li>
+    </ul>
+
+    <h3>Milyen magántanárt ajánlasz zeneelméletre és szerzésre?</h3>
+                                                        
+    <p><a href="https://tutimagantanar.hu/keres" target="_blank">TUTI magántanár</a></p>
+    
+    <h3>Milyen producer és mixing tanfolyamot ajánlasz?</h3>                                                     
+                                                                                                                                                                  
+    <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
+                                                                                                                                                                                                                                                                                                                                      
     </main><!-- .site-main -->
 </div><!-- .content-area -->
 
