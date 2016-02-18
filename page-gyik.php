@@ -102,7 +102,7 @@
 
     <h3>Milyen studio programot / DAW használjak kimondottan zeneszerzésre?</h3>
 
-    <p>Amilyet szeretnél! A hangzás a használt hangmintákon + plugineken fog múlni, és nem a studio programon.</p>
+    <p>Amilyet szeretnél! A hangzás a használt hangmintákon, plugineken és mixingen fog múlni, és nem a studio programon.</p>
 
     <ul>
       <li><a href="https://www.image-line.com/flstudio/">FL Studio</a></li>
