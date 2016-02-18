@@ -89,12 +89,19 @@
     </div>
             
     
-    <h3>Milyen kezdő mikrofont vegyek?</h3>
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen kezdő mikrofont vegyek?</h3>
+        <ul>
+          <li><a href="http://hitspace.hu/shure-sm57.html" target="_blank">Shure SM57</a></li>
+          <li><a href="http://hitspace.hu/audio-technica-at-2020.html" target="_blank">Audio-Technica AT 2020</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/s/m/sm57-xlarge.jpg" alt="" style="max-height: 300px;">
+      </div>
+    </div>
     
-    <ul>
-      <li><a href="http://hitspace.hu/shure-sm57.html" target="_blank">Shure SM57</a></li>
-      <li><a href="http://hitspace.hu/audio-technica-at-2020.html" target="_blank">Audio-Technica AT 2020</a></li>
-    </ul>
     
     
     <h3>Milyen olcsó fülhallgatót vegyek?</h3>
@@ -103,18 +110,34 @@
       <a href="http://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/" target="_blank">Sennheiser MX 170</a>
     </p>
 
-    <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
-            
-    <p><a href="http://hitspace.hu/zoom-h1v2.html" target="_blank">Zoom H1</a></p>
-            
-    <h3>Milyen MIDI billentyűzetet vegyek?</h3>
-            
-    <ul>
-      <li><a href="http://hitspace.hu/miditech-midistart-music-49-1.html" target="_blank">Miditech MIDISTART MUSIC 49</a></li>
-      <li><a href="http://hitspace.hu/miditech-midistart-music-25.html" target="_blank">Miditech MIDISTART MUSIC 25</a></li>
-    </ul>
-            
-            
+    
+    <div>
+      <div class="col-md-8 nopadding">
+
+        <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
+
+        <p><a href="http://hitspace.hu/zoom-h1v2.html" target="_blank">Zoom H1</a></p>
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/1/4/1439.jpg" alt="">
+      </div>
+    </div>
+                            
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen MIDI billentyűzetet vegyek?</h3>
+
+        <ul>
+          <li><a href="http://hitspace.hu/miditech-midistart-music-49-1.html" target="_blank">Miditech MIDISTART MUSIC 49</a></li>
+          <li><a href="http://hitspace.hu/miditech-midistart-music-25.html" target="_blank">Miditech MIDISTART MUSIC 25</a></li>
+        </ul>
+
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/m/i/miditechmidistartmusic49.jpeg" alt="">
+      </div>
+    </div>
+                            
     <div>
       <div class="col-md-8 nopadding">
         <h3>Az egyik cucc, pl. fül / fejhallgató 20 Hz - 20 kHz-et tud, akkor az jó, ugye?</h3>
@@ -135,19 +158,35 @@
       </div>
     </div>
             
-    <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
-    
-    <p>Nem. Mert nem a Watt-beli teljesítmény számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
-   
-    <h3>Milyen studio programot / DAW használjak kimondottan mixingre és masteringre?</h3>
+   <div>
+     <div class="col-md-8 nopadding">
+        <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
 
-      <ul>
-        <li><a href="https://www.ableton.com/en/live/">Ableton Live</a></li>
-        <li><a href="http://www.reaper.fm/">Reaper</a></li>
-        <li><a href="http://www.avid.com/US/products/pro-tools-software">Pro Tools</a></li>
-        <li><a href="http://www.apple.com/logic-pro/">Logic Pro X</a></li>
-        <li><a href="http://www.steinberg.net/en/products/cubase/start.html">Cubase</a></li>
-      </ul>
+        <p>Nem. Mert nem a Watt-beli teljesítmény számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
+       
+     </div>
+     <div class="col-md-4 nopadding">
+       <img src="https://www.thomann.de/pics/bdb/234475/9117391_800.jpg" alt="" style="max-height: 370px;">
+     </div>
+   </div>
+   
+   <div>
+     <div class="col-md-8 nopadding">
+        <h3>Milyen studio programot / DAW használjak kimondottan mixingre és masteringre?</h3>
+
+        <ul>
+          <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a></li>
+          <li><a href="http://www.reaper.fm/" target="_blank">Reaper</a></li>
+          <li><a href="http://www.avid.com/US/products/pro-tools-software" target="_blank">Pro Tools</a></li>
+          <li><a href="http://www.apple.com/logic-pro/" target="_blank">Logic Pro</a></li>
+          <li><a href="http://www.steinberg.net/en/products/cubase/start.html" target="_blank">Cubase</a></li>
+        </ul>
+     </div>
+     <div class="col-md-4 nopadding">
+       <img src="http://static.wixstatic.com/media/25c240_4db02721f3a943fab7fecaba7fa690a9.jpg/v1/fill/w_476,h_290,al_c,q_80,usm_0.66_1.00_0.01/25c240_4db02721f3a943fab7fecaba7fa690a9.jpg" alt="">
+     </div>
+   </div>
+   
 
    <div>
      <div class="col-md-8 nopadding">
@@ -156,31 +195,47 @@
         <p>Amilyet szeretnél! A hangzás a használt hangmintákon, plugineken és mixingen fog múlni, és nem a studio programon.</p>
 
         <ul>
-          <li><a href="https://www.image-line.com/flstudio/">FL Studio</a></li>
-          <li><a href="https://www.propellerheads.se/reason">Reason</a></li>
-          <li><a href="http://studioone.presonus.com/">Studio One</a></li>
+          <li><a href="https://www.image-line.com/flstudio/" target="_blank">FL Studio</a></li>
+          <li><a href="https://www.propellerheads.se/reason" target="_blank">Reason</a></li>
+          <li><a href="http://studioone.presonus.com/" target="_blank">Studio One</a></li>
+          <li><a href="http://www.bitwig.com/en/bitwig-studio.html" target="_blank">Bitwig Studio</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
-       <img src="https://www.image-line.com/flstudio/fl12full_1.jpg" alt="">
+       <img src="https://www.image-line.com/flstudio/fl12full_1.jpg" alt=""> 
+       <div class="row">&nbsp;</div>
+       <img src="https://a.phcdn.se/static-live/img/reason/home-screenshots/reason8-3-screenshot.be0c90379fa3.jpg" alt="">
      </div>
    </div>
    
-    
-     <h3>Milyen plugineket használjak mixingre és masteringre?</h3>
+   <div>
+     <div class="col-md-8 nopadding">
+       <h3>Milyen plugineket használjak mixingre és masteringre?</h3>
 
-      <ul>
-        <li><a href="http://www.fabfilter.com/" target="_blank">Fabfilter</a></li>
-        <li><a href="http://www.waves.com/" target="_blank">Waves</a></li>
-        <li><a href="http://www.uaudio.com/" target="_blank">Universal Audio</a></li>
-      </ul>
+        <ul>
+          <li><a href="http://www.fabfilter.com/" target="_blank">Fabfilter</a></li>
+          <li><a href="http://www.waves.com/" target="_blank">Waves</a></li>
+          <li><a href="http://www.uaudio.com/" target="_blank">Universal Audio</a></li>
+        </ul>
+     </div>
+     <div class="col-md-4 nopadding">
+       <img src="http://www.fabfilter.com/images/screenshots/screenshot_pro-q_full.jpg?v=1408014345" alt="">
+     </div>
+   </div>
+  
+   <div>
+     <div class="col-md-8 nopadding">
+      <h3>Milyen olcsó pluginek vannak?</h3>
 
-    <h3>Milyen olcsó pluginek vannak?</h3>
-
-    <p>
-      <a href="http://www.musicradar.com/computermusic/cm-plugins-full-list-of-our-exclusive-free-vst-au-plugin-instruments-and-effects-571808" target="_blank">CM studio plugins (a magazin mellé jár kb 2000 dollár értékű plugin)</a>
-    </p>
-
+      <p>
+        <a href="http://www.musicradar.com/computermusic/cm-plugins-full-list-of-our-exclusive-free-vst-au-plugin-instruments-and-effects-571808" target="_blank">CM studio plugins (a magazin mellé jár kb 2000 dollár értékű plugin)</a>
+      </p>
+     </div>
+     <div class="col-md-4 nopadding">
+       <img src="http://cdn.mos.musicradar.com/images/magblogs/computer-music/CM%20Plugins%20FAQ%20and%20list/CM%20Plugins_860x478_v2-970-80.jpg" alt="">
+     </div>
+   </div>
+   
     <h3>Hol találok ingyenes plugineket?</h3>
     <ul>
       <li>
@@ -191,20 +246,38 @@
       </li>
     </ul>
 
-    <h3>Hol találok ingyenes hangmintákat?</h3>
-    <ul>
-      <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
-      <li><a href="http://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
-    </ul>
 
-    <h3>Milyen YouTube csatornákat nézzek mixing és mastering témában?</h3>
+   <div>
+     <div class="col-md-8 nopadding">
+      <h3>Hol találok ingyenes hangmintákat?</h3>
+      <ul>
+        <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
+        <li><a href="http://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
+      </ul>
+       
+     </div>
+     <div class="col-md-4 nopadding">
+       <img src="http://bedroomproducersblog.com/wp-content/uploads/2014/11/toy-keyboard-bass-station.jpg" alt="">
+     </div>
+   </div>
+   
     
-    <ul>
-      <li><a href="https://www.youtube.com/channel/UC-y-8VGVtlP8zDnT60dDgkw" target="_blank">MixWithTheMASTERS</a></li>
-      <li><a href="https://www.youtube.com/channel/UCno8mYpnGhTA9COSW9sP8gQ" target="_blank">Pensado's Place</a></li>
-      <li><a href="https://www.youtube.com/channel/UCjRzsiP_aDWWLHV4-2LKBtg" target="_blank">Recording Revolution</a></li>
-    </ul>
 
+     <div>
+       <div class="col-md-8 nopadding">
+        <h3>Milyen YouTube csatornákat nézzek mixing és mastering témában?</h3>
+          <ul>
+            <li><a href="https://www.youtube.com/channel/UC-y-8VGVtlP8zDnT60dDgkw" target="_blank">MixWithTheMASTERS</a></li>
+            <li><a href="https://www.youtube.com/channel/UCno8mYpnGhTA9COSW9sP8gQ" target="_blank">Pensado's Place</a></li>
+            <li><a href="https://www.youtube.com/channel/UCjRzsiP_aDWWLHV4-2LKBtg" target="_blank">Recording Revolution</a></li>
+          </ul>
+       </div>
+       <div class="col-md-4 nopadding">
+         <img src="https://pbs.twimg.com/media/CHxsUzoWcAAkQh7.jpg" alt="">
+         <p>&nbsp;</p>
+       </div>
+     </div>
+     
       <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen print és online magazinokat olvassak?</h3>
