@@ -120,7 +120,7 @@
 	</p>
 
 	<div>
-	  <?php echo do_shortcode('[contact-form-7 id="10" title="Contact form 1"]'); ?>
+	  <?php echo do_shortcode('[contact-form-7 id="4" title="1 kapcsolati űrlap"]'); ?>
 	</div>
 			
 	</main><!-- .site-main -->
