@@ -279,6 +279,8 @@
        <div class="col-md-8 nopadding">
         <h3>Milyen YouTube csatornákat nézzek mixing és mastering témában?</h3>
           <ul>
+            <li><a href="https://www.youtube.com/user/ProducerDjhu" target="_blank">Sonic School (magyar)</a></li>
+            <li><a href="https://www.youtube.com/user/iamproschool" target="_blank">impro (magyar)</a></li>
             <li><a href="https://www.youtube.com/channel/UC-y-8VGVtlP8zDnT60dDgkw" target="_blank">MixWithTheMASTERS</a></li>
             <li><a href="https://www.youtube.com/channel/UCno8mYpnGhTA9COSW9sP8gQ" target="_blank">Pensado's Place</a></li>
             <li><a href="https://www.youtube.com/channel/UCjRzsiP_aDWWLHV4-2LKBtg" target="_blank">Recording Revolution</a></li>
