@@ -92,9 +92,12 @@
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen kezdő mikrofont vegyek?</h3>
+
+        <p>A mikrofonnál figyelj arra, ha extra tápellátásra (+48V fantomtáp) van szüksége, pl. kondenzátoros mikrofon. AT 2020. Valamint a kondenzátoros mikrofon érzékenyebb hangerőre is a dinamikushoz képest.</p>
+        
         <ul>
-          <li><a href="http://hitspace.hu/shure-sm57.html" target="_blank">Shure SM57</a></li>
-          <li><a href="http://hitspace.hu/audio-technica-at-2020.html" target="_blank">Audio-Technica AT 2020</a></li>
+          <li><a href="http://hitspace.hu/shure-sm57.html" target="_blank">Shure SM57 / általános célú hangszermikrofon (pergő, perka, gitárláda)</a></li>
+          <li><a href="http://hitspace.hu/audio-technica-at-2020.html" target="_blank">Audio-Technica AT 2020 /  általános célú stúdió énekmikrofon (vokál, kórus, cinek)</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
