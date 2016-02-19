@@ -172,7 +172,9 @@
      <div class="col-md-8 nopadding">
         <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
 
-        <p>Nem. Mert nem a Watt-beli teljesítmény számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
+        <p>Nem. Mert nem a hangfal terhelhetősége számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
+       
+        <p><a href="http://www.hangaruhaz.hu/cms/watt-vagy-decibel-kezdoknek" target="_blank">A teljesítmény és hangnyomás összefügge (cikk).</a></p>
        
      </div>
      <div class="col-md-4 nopadding">
