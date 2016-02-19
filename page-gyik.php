@@ -346,9 +346,16 @@
     <p><a href="https://tutimagantanar.hu/keres" target="_blank">TUTI magántanár</a></p>
     
     <h3>Milyen producer és mixing tanfolyamot ajánlasz?</h3>
-                                                                                                                                                                  
-    <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
-
+    
+     <ul>
+        <li>
+          <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
+        </li>
+       <li>
+         <a href="http://www.lynda.com/Audio-Music-training-tutorials/20-0.html" target="_blank">Lynda</a>
+       </li>
+     </ul>
+   
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen széket használjak, hogy ne menjen tönkre a hátam?</h3>
