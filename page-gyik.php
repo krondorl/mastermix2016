@@ -174,7 +174,7 @@
 
         <p>Nem. Mert nem a hangfal terhelhetősége számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
        
-        <p><a href="http://www.hangaruhaz.hu/cms/watt-vagy-decibel-kezdoknek" target="_blank">A teljesítmény és hangnyomás összefügge (cikk).</a></p>
+        <p><a href="http://www.hangaruhaz.hu/cms/watt-vagy-decibel-kezdoknek" target="_blank">A teljesítmény és a hangnyomás összefüggése (cikk).</a></p>
        
      </div>
      <div class="col-md-4 nopadding">
