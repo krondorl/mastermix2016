@@ -115,8 +115,15 @@
       <div class="col-md-8 nopadding">
 
         <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
-
-        <p><a href="http://hitspace.hu/zoom-h1v2.html" target="_blank">Zoom H1</a></p>
+        <ul>
+          <li>
+            <a href="http://hitspace.hu/zoom-h1v2.html" target="_blank">Zoom H1</a>
+          </li>
+          <li>
+            <a href="http://www.argep.hu/product_1808821.html" target="_blank">Zoom H2n</a>
+          </li>
+        </ul>
+        
       </div>
       <div class="col-md-4 nopadding">
         <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/1/4/1439.jpg" alt="">
@@ -336,7 +343,23 @@
     <h3>Milyen producer és mixing tanfolyamot ajánlasz?</h3>
                                                                                                                                                                   
     <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
-                                                                                                                                                                                                                                                                                                                                      
+
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen széket használjak, hogy ne menjen tönkre a hátam?</h3>
+
+        <p>A standard a Herman Miller profi székek, de egy vagyonba kerülnek, alternativ megoldás lehet a fitlabda.</p>
+
+        <p>Itt találsz infot, hogyan <a href="http://fitball.hu/kiknek-ajanljuk/otthoni-edzeshez/fontos-informaciok/" target="_blank">válassz megfelelő labdát</a>.</p>
+
+        <a href="http://www.r-med.com/r-med-fit-ball.html" target="_blank">R-med fitball vásárlása</a>
+        
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://fitball.hu/wp-content/uploads/2013/05/alapules.jpg" alt="">
+      </div>
+    </div>
+   
     </main><!-- .site-main -->
 </div><!-- .content-area -->
 
