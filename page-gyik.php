@@ -45,9 +45,9 @@
         <h3>Milyen kezdő monitor hangfalat vegyek?</h3>
 
         <ul>
-          <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502</a></li>
-          <li><a href="http://hitspace.hu/mackie-mr5-mk3.html" target="_blank">Mackie MR5 mk3</a></li>
-          <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7</a></li>
+          <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502 / általános</a></li>
+          <li><a href="http://hitspace.hu/mackie-mr5-mk3.html" target="_blank">Mackie MR5 mk3 / elektronikus zene</a></li>
+          <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7 / akusztikus zene, klasszikus zene (a gyengébb mélytartomány miatt)</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
