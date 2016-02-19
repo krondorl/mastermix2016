@@ -306,18 +306,34 @@
       </div>
     </div>
     
-    <h3>Milyen könyvet ajánlasz zeneelmélet témában?</h3>
-                  
-    <ul>
-      <li><a href="http://www.panem.hu/webshop/tantusz-konyvek/zongora-cd-melleklettel-reszletek" target="_blank">Zongora - Panem kiadó (Dummies sorozat)</a></li>
-      <li><a href="http://mek.oszk.hu/00200/00208/html/" target="_blank">Kabóca zenefüzetek</a></li>
-    </ul>
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen könyvet ajánlasz zeneelmélet témában?</h3>
+        <ul>
+          <li><a href="http://www.panem.hu/webshop/tantusz-konyvek/zongora-cd-melleklettel-reszletek" target="_blank">Zongora - Panem kiadó (Dummies sorozat)</a></li>
+          <li><a href="http://mek.oszk.hu/00200/00208/html/" target="_blank">Kabóca zenefüzetek</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://www.panem.hu/images/stories/virtuemart/product/tantusz_zongora.jpg" alt="">
+      </div>
+    </div>
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen könyvet ajánlasz zeneszerzés témában?</h3>
+        
+        <a href="http://www.amazon.com/Complete-Idiots-Guide-Composition-Guides/dp/1592574033" target="_blank">Idiot's guide to music composition</a>
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://ecx.images-amazon.com/images/I/511YLPHgdKL._SX258_BO1,204,203,200_.jpg" alt="">
+      </div>
+    </div>
 
     <h3>Milyen magántanárt ajánlasz zeneelméletre és szerzésre?</h3>
                                                         
     <p><a href="https://tutimagantanar.hu/keres" target="_blank">TUTI magántanár</a></p>
     
-    <h3>Milyen producer és mixing tanfolyamot ajánlasz?</h3>                                                     
+    <h3>Milyen producer és mixing tanfolyamot ajánlasz?</h3>
                                                                                                                                                                   
     <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
                                                                                                                                                                                                                                                                                                                                       
