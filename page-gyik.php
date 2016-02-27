@@ -30,12 +30,12 @@
         <h3>Milyen kezdő hangkártyát vegyek?</h3>
 
         <ul>
-          <li><a href="http://hitspace.hu/steinberg-ur-22-mk2.html" target="_blank">Steinberg UR22</a></li>
+          <li><a href="http://hitspace.hu/steinberg-ur-22-mk2.html" target="_blank">Steinberg UR22 (stabilabb driver Win 7, 8 és 10 alatt is a másikhoz képest)</a></li>
           <li><a href="http://hitspace.hu/focusrite-scarlett-2i2-1.html" target="_blank">Focusrite 2i2</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="https://www.steinberg.net/index.php?eID=tx_nawsecuredl&u=0&g=0&t=1455873253&hash=b3af8ed8088d3d575935998cedfee3bd86eebadc&file=uploads/RTEmagicC_steinberg_ur22_front_mirror_29.png.png" alt="">
+        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/s/t/steinberg_ur22_mkii_ur22mkii_usb_2_0_1194109.jpg" alt="">
       </div>
     </div>
       
@@ -46,8 +46,8 @@
 
         <ul>
           <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502 / általános</a></li>
-          <li><a href="http://hitspace.hu/mackie-mr5-mk3.html" target="_blank">Mackie MR5 mk3 / elektronikus zene</a></li>
-          <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7 / akusztikus zene, klasszikus zene (a gyengébb mélytartomány miatt)</a></li>
+          <li><a href="http://hitspace.hu/mackie-mr5-mk3.html" target="_blank">Mackie MR5 mk3 / elektronikus zene <br>(stabil, érzékelhető mélyek, érthető közép és magas)</a></li>
+          <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7 / akusztikus zene, klasszikus zene <br>(gyengébb mély, pontosabb közép)</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
@@ -342,7 +342,31 @@
         <img src="http://ecx.images-amazon.com/images/I/511YLPHgdKL._SX258_BO1,204,203,200_.jpg" alt="">
       </div>
     </div>
-
+    
+    
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen programot használjak képernyő videókhoz?</h3>
+        
+        <ul>
+          <li>
+            <a href="https://www.techsmith.com/camtasia.html" target="_blank">Camtasia Studio (fizetős rögzítő + szerkesztő)</a>
+          </li>
+          <li>
+            <a href="http://camstudio.org/" target="_blank">CamStudio (ingyenes rögzítő)</a>
+          </li>
+          <li>
+            <a href="http://www.lwks.com/index.php?option=com_content&view=article&id=102&Itemid=213" target="_blank">Lightworks Free (ingyenes szerkesztő / freemium)</a>
+          </li>
+        </ul>
+        
+        
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://camstudio.org/images/software.gif" alt="">
+      </div>
+    </div>
+    
     <h3>Milyen magántanárt ajánlasz zeneelméletre és szerzésre?</h3>
                                                         
     <p><a href="https://tutimagantanar.hu/keres" target="_blank">TUTI magántanár</a></p>
