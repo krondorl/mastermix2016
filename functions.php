@@ -4,6 +4,11 @@
 
   function theme_enqueue_styles() {
       wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
+  }
+
+  // Override font loading, with empty function.
+  // No webfonts needed!
+  function twentysixteen_fonts_url() {
 
   }
 
