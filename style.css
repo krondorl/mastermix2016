@@ -921,12 +921,16 @@
 
 body {
   background-image: url(img/mainbg.jpg);
-  background-position: center top, center bottom;
+  background-position: 50% -100px;
   background-repeat: no-repeat, no-repeat;
   background-color: #fff;
   background-size: contain;
   font-family: "Trebuchet MS", sans-serif;
   font-size: 1.2rem;
+}
+
+.main-navigation {
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 .sidebar {
@@ -1031,7 +1035,7 @@ h1, h2, h3 {
 }
 
 footer {
-  background: url(img/footer.jpg?v2);
+  background: url(img/footer.jpg?v2) no-repeat 50% 0 / cover;
 }
 
 footer blockquote {
@@ -1050,15 +1054,15 @@ footer blockquote {
 }
 
 .site-branding .site-title a {
-  background: url(img/main-logo.png) no-repeat;
+  background: url(img/main-logo.png) no-repeat 0 0 / calc(2.701 * 100px) 100px;
   display: block;
-  height: 194px;
-  width: 524px;
+  height: 100px;
+  width: calc(2.701 * 100px);
   text-indent: -9999px;
 }
 
 .site-header {
-  padding-bottom: 0;
+  padding: 0;
 }
 
 .site-description {
@@ -1071,7 +1075,7 @@ footer blockquote {
 
 .site-header-menu {
   border-bottom: 6px dashed #bbb;
-  margin: .5rem 0 3rem;
+  margin: .5rem 0;
 }
 
 #menu-main {
@@ -1092,4 +1096,34 @@ main footer {
   display: inline-block;
   font-size: 1.8rem;
   margin-bottom: 1.4rem;
+}
+
+.download-arrow-down {
+  display: inline-block;
+  margin-bottom: 1rem;
+  margin-left: 3rem;
+  max-height: 100px;
+}
+
+.toc {
+  font-size: .9rem;
+}
+
+.toc li {
+  display: inline-block;
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  .toc li {
+    width: 33%;
+  }
+}
+
+.site-content {
+  padding: 0;
+}
+
+.main-navigation .primary-menu {
+  padding: 0;
 }

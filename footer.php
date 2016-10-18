@@ -10,7 +10,9 @@
 			<blockquote>"Mindaz amit teszel, az a döntések halogatása. A korlátok teszik nagyszerűvé a zenét." - Matt Wallace</blockquote>
 			
 			 Jó, hogy itt vagy! <br> Az oldal 2015 októberben indult útjára. 
-			 Ez már a második változat: 2016 február óta.
+			 Verzió: 2.1, 2016 október óta.
+			 <br>
+			 Ikonok: Dario Ferrando / flaticon.com
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
 
