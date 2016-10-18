@@ -957,7 +957,8 @@ body {
 }
 
 .site-footer {
-  min-height: 200px;
+  min-height: 130px;
+  padding-bottom: 1rem;
   text-align: center;
 }
 
@@ -1014,6 +1015,27 @@ ul, ol {
   padding: 1.2rem;
 }
 
+.want-more {
+  border: .2rem dashed orange;
+  margin-bottom: 5rem;
+  padding: .5rem 1rem;
+}
+
+.want-more a:link {
+  transition: 100ms all ease-in-out;
+}
+
+.want-more a:hover {
+  background: grey;
+  color: #fff;
+}
+
+.want-more h3 {
+  background: grey;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
 h1, h2, h3 {
   margin: 1rem 0;
 }
@@ -1040,12 +1062,12 @@ footer {
 
 footer blockquote {
   color: #fff;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .site-info {
   color: #fff;
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin: 1rem auto 0;
 }
 
@@ -1136,4 +1158,8 @@ main footer {
 
 ._form-branding {
   display: none;
+}
+
+.site-main {
+  margin-bottom: 2rem;
 }
