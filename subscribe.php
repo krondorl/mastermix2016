@@ -64,7 +64,7 @@
  #_form_1_ ._inline-style { margin:20px 0 0 !important; }
  }
  #_form_1_ { position:relative; text-align:left; margin:25px auto 0; padding:20px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:#fff !important; border:0px solid #b0b0b0 !important; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; }
- #_form_1_ ._form-title { font-size:22px; line-height:22px; font-weight:600; margin-bottom:0; }
+ #_form_1_ ._form-title { color: #ed7a2d; font-size:28px; line-height:22px; font-weight:600; margin-bottom:0; }
  #_form_1_:before,#_form_1_:after { content:" "; display:table; }
  #_form_1_:after { clear:both; }
  #_form_1_._inline-style { width:auto; display:inline-block; }

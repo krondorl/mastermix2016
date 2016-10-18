@@ -1066,6 +1066,7 @@ footer blockquote {
 }
 
 .site-description {
+  background-color: rgba(255, 255, 255, .5);
   font-size: 1.2rem;
 }
 
@@ -1102,11 +1103,16 @@ main footer {
   display: inline-block;
   margin-bottom: 1rem;
   margin-left: 3rem;
-  max-height: 100px;
+  max-height: 120px;
 }
 
 .toc {
   font-size: .9rem;
+}
+
+.toc-h2 {
+  clear: both;
+  margin-top: 3rem;
 }
 
 .toc li {
@@ -1126,4 +1132,8 @@ main footer {
 
 .main-navigation .primary-menu {
   padding: 0;
+}
+
+._form-branding {
+  display: none;
 }

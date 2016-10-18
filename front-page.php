@@ -6,22 +6,24 @@
 	 <h2>Könyv</h2>
 
     <div class="clearfix">
-      <div class="col-md-4">
-        <img class="book" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/mastering-mixing-konyv-borito.jpg" alt="Audio mastering és mixing könyv borító">
-      </div>
-      <div class="col-md-8">
-        <p>Átfogó könyv a mixingről és masteringről. </p>
-        <p>Töltsd le a 72 oldalas INGYENES könyvet (5000 Ft értékben) és tanuld meg, hogy készíts <em>jobb hangzást!</em></p>
-        <div>
-          <img class="download-arrow-down" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/nyil-lefele.svg" alt="">
+      <div class="clearfix">
+        <div class="pull-left col-xs-5 col-sm-3">
+          <img class="book" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/mastering-mixing-konyv-borito.jpg" alt="Audio mastering és mixing könyv borító">  
         </div>
-        <div style="border: 2px solid orange; border-radius: 4px;">
-          <?php include_once 'subscribe.php'; ?>
-        </div>        
+        <div class="">
+          <p>Átfogó könyv a mixingről és masteringről, hangmérnöki szempontból (final mix, mixdown, "végső keverés", "lekeverés").
+          <p>Töltsd le a 72 oldalas <strong>INGYENES</strong> könyvet (<em>5000 Ft értékben</em>) és tanuld meg, hogy készíts <em>jobb hangzást!</em></p>
+          <div>
+            <img class="download-arrow-down" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/nyil-lefele.svg" alt="">
+          </div>
+          <div style="border: 2px solid orange; border-radius: 4px;">
+            <?php include_once 'subscribe.php'; ?>
+          </div>        
+        </div>
       </div>
     </div>
 
-   <h2>Tartalomjegyzék</h2>
+   <h2 class="toc-h2">Tartalomjegyzék</h2>
    
    <div class="clearfix toc">
     <ul class="col-sm-12">
