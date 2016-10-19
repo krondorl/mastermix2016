@@ -1,0 +1,8 @@
+{
+  "important": false,
+  "universal-selector": false,
+  "ids": false,
+  "box-model": false,
+  "box-sizing": false,
+  "fallback-colors": false
+}
