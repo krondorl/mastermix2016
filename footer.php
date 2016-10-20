@@ -6,12 +6,9 @@
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="site-info">
 			<a href="#top" class="jump-top">&uArr; Ugrás az oldal tetejére &uArr;</a>
-			
+
 			<blockquote>"Mindaz amit teszel, az a döntések halogatása. A korlátok teszik nagyszerűvé a zenét." - Matt Wallace</blockquote>
-			
-			 Jó, hogy itt vagy! <br> Az oldal 2015 októberben indult útjára. 
-			 Verzió: 2.1, 2016 október óta.
-			 <br>
+
 			 Ikonok: Dario Ferrando / flaticon.com
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
