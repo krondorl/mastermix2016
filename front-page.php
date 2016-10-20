@@ -158,6 +158,31 @@
         </footer>
       </figure>
       <hr>
+
+      <h2>Statisztikák</h2>
+      <ul class="stats">
+        <li>
+          <strong>1250+</strong>
+          könyvletöltés
+        </li>
+        <li>
+          <strong>300+</strong>
+          tanácsadás
+        </li>
+        <li>
+          <strong>120+</strong>
+          masterelt zene
+        </li>
+        <li>
+          <strong>30</strong>
+          cikk angolul
+        </li>
+        <li>
+          <strong>15</strong>
+          év tapasztalat
+        </li>
+      </ul>
+
       <h2 class="about">Rólunk</h2>
       <div class="clearfix about-section">
         <div class="col-md-4">
