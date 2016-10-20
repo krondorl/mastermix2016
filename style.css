@@ -919,9 +919,8 @@
 body {
   background-color: #fff;
   background-image: url(img/mainbg.jpg);
-  background-position: 50% -100px;
+  background-position: 50% -230px;
   background-repeat: no-repeat;
-  background-size: contain;
   font-family: "Trebuchet MS", sans-serif;
   font-size: 1.2rem;
 }
