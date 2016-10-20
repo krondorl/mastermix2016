@@ -1088,7 +1088,7 @@ footer blockquote {
 }
 
 .site-header-menu {
-  border-bottom: 6px dashed #bbb;
+  border-bottom: 2px solid #999;
   margin: .5rem 0;
 }
 
