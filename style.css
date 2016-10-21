@@ -1174,7 +1174,8 @@ figure blockquote {
 
 .stats li {
   display: inline-block;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
   width: 100%;
 }
 
@@ -1199,3 +1200,41 @@ figure blockquote {
   }
 }
 
+.stat-icon {
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: 46px 46px;
+  display: block;
+  height: 46px;
+}
+
+.music {
+  background-image: url(img/hangszoro.svg);
+}
+
+.person {
+  background-image: url(img/szemely.svg);
+}
+
+.book2 {
+  background-image: url(img/konyv.svg);
+}
+
+.newspaper {
+  background-image: url(img/ujsag.svg);
+}
+
+.idea {
+  background-image: url(img/otlet.svg);
+}
+
+.noleftpad {
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
+
+.subscribe-container {
+  border: .25rem solid orange;
+  border-radius: .1rem;
+  margin-top: 1rem;
+}

@@ -5,7 +5,7 @@
       <h2>Könyv</h2>
       <div class="clearfix">
         <div class="clearfix">
-          <div class="pull-left col-xs-5 col-sm-3">
+          <div class="pull-left col-xs-5 col-sm-3 noleftpad">
             <img class="book" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/mastering-mixing-konyv-borito.jpg" alt="Audio mastering és mixing könyv borító">
           </div>
           <div class="">
@@ -14,7 +14,7 @@
             <div>
               <img class="download-arrow-down" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/nyil-lefele.svg" alt="">
             </div>
-            <div style="border: 2px solid orange; border-radius: 4px;">
+            <div class="subscribe-container">
               <?php include_once 'subscribe.php'; ?>
             </div>
           </div>
@@ -162,22 +162,27 @@
       <h2>Statisztikák</h2>
       <ul class="stats">
         <li>
+          <span class="book2 stat-icon"></span>
           <strong>1250+</strong>
           könyvletöltés
         </li>
         <li>
+          <span class="person stat-icon"></span>
           <strong>300+</strong>
           tanácsadás
         </li>
         <li>
+          <span class="music stat-icon"></span>
           <strong>120+</strong>
           masterelt zene
         </li>
         <li>
+          <span class="newspaper stat-icon"></span>
           <strong>30</strong>
           cikk angolul
         </li>
         <li>
+          <span class="idea stat-icon"></span>
           <strong>15</strong>
           év tapasztalat
         </li>
