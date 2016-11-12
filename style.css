@@ -1238,3 +1238,31 @@ figure blockquote {
   border-radius: .1rem;
   margin-top: 1rem;
 }
+
+@media (max-width: 600px) {
+  #main {
+    margin: 0 1rem;
+  }
+
+  .site-branding {
+    display: none;
+  }
+}
+
+.entry-header {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.menu-toggle {
+  background: #fff;
+  border: 1px solid transparent;
+  color: #777;
+  margin-left: 1rem;
+}
+
+.menu-toggle:hover {
+  background: #777;
+  border: 1px solid transparent;
+  color: #fff;
+}
