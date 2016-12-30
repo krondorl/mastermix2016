@@ -70,6 +70,20 @@
       </div>
     </div>
     
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen akusztikai állványt tegyek a hangfal alá?</h3>
+
+        <p>
+          <a href="http://hitspace.hu/isoacoustics" target="_blank">IsoAcoustics L8 széria</a>
+        </p>
+        
+      </div>
+      <div class="col-md-4 nopadding">
+        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/1/6/1600-isol8r200sub_detail3.jpg" alt="">
+      </div>
+    </div>
+    
 
     <div>
       <div class="col-md-8 nopadding">
@@ -240,7 +254,7 @@
       <h3>Milyen olcsó pluginek vannak?</h3>
 
       <p>
-        <a href="http://www.musicradar.com/computermusic/cm-plugins-full-list-of-our-exclusive-free-vst-au-plugin-instruments-and-effects-571808" target="_blank">CM studio plugins (a magazin mellé jár kb 2000 dollár értékű plugin)</a>
+        <a href="http://www.musicradar.com/computermusic/cm-plugins-full-list-of-our-exclusive-free-vst-au-plugin-instruments-and-effects-571808" target="_blank">CM studio plugins (a magazin mellé jár kb 3000 dollár értékű plugin csomag)</a>
       </p>
      </div>
      <div class="col-md-4 nopadding">
@@ -263,6 +277,7 @@
      <div class="col-md-8 nopadding">
       <h3>Hol találok ingyenes hangmintákat?</h3>
       <ul>
+        <li><a href="https://cymatics.fm/free-download-vault/" target="_blank">Cymatics free downloads</a></li>
         <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
         <li><a href="http://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
       </ul>
