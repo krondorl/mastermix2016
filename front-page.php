@@ -182,6 +182,11 @@
           cikk angolul
         </li>
         <li>
+          <span class="newspaper stat-icon"></span>
+          <strong>17</strong>
+          cikk magyarul
+        </li>
+        <li>
           <span class="idea stat-icon"></span>
           <strong>15</strong>
           év tapasztalat
