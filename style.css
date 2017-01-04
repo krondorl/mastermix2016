@@ -917,12 +917,9 @@
 /* mastermix main */
 
 body {
-  background-color: #fff;
-  background-image: url(img/mainbg.jpg);
-  background-position: 50% -230px;
-  background-repeat: no-repeat;
+  background: #fff url(img/header-bg-2017.svg);
   font-family: "Trebuchet MS", sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .main-navigation {
@@ -1047,7 +1044,7 @@ h1, h2, h3 {
 }
 
 footer {
-  background: url(img/footer.jpg?v2) no-repeat 50% 0 / cover;
+  background: #062F4F;
 }
 
 footer blockquote {
@@ -1078,8 +1075,9 @@ footer blockquote {
 }
 
 .site-description {
-  background-color: rgba(255, 255, 255, .5);
+  background-color: #fff;
   font-size: 1.2rem;
+  padding: .25rem;
 }
 
 .entry-content {
@@ -1087,7 +1085,7 @@ footer blockquote {
 }
 
 .site-header-menu {
-  border-bottom: 2px solid #999;
+  border: 0;
   margin: .5rem 0;
 }
 
@@ -1107,7 +1105,7 @@ main footer {
 
 .jump-top {
   display: inline-block;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   margin-bottom: 1.4rem;
 }
 
@@ -1143,6 +1141,7 @@ main footer {
 }
 
 .main-navigation .primary-menu {
+  background: #ccc;
   padding: 0;
 }
 
@@ -1265,4 +1264,8 @@ figure blockquote {
   background: #777;
   border: 1px solid transparent;
   color: #fff;
+}
+
+.entry-title {
+  font-size: 2rem;
 }
