@@ -917,7 +917,7 @@
 /* mastermix main */
 
 body {
-  background: #fff url(img/header-bg-2017.svg);
+  background: #fff url(img/header-bg-2017.svg?v5);
   font-family: "Trebuchet MS", sans-serif;
   font-size: 1.1rem;
 }
@@ -952,7 +952,6 @@ body {
 .site-footer {
   min-height: 100px;
   padding-bottom: 1rem;
-  text-align: center;
 }
 
 .admin-bar:before {
@@ -1063,11 +1062,11 @@ footer blockquote {
 }
 
 .site-branding .site-title a {
-  background: url(img/main-logo.png) no-repeat 0 0 / calc(2.701 * 100px) 100px;
+  background: url(img/masteringmixing-logo-2017-with-brandname-inverse.svg) no-repeat 0 0 / 386px 128px;
   display: block;
-  height: 100px;
+  height: 128px;
   text-indent: -9999px;
-  width: calc(2.701 * 100px);
+  width: 386px;
 }
 
 .site-header {
