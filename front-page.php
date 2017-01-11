@@ -198,26 +198,26 @@
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/adam.jpg" alt="Burucs Ádám fotó">
           <h3>Burucs Ádám</h3>
-          <h4>szerző, mixing, mastering, zene</h4>
+          <h4>írás, mixing, mastering, zene</h4>
           <p>A könyv szerzője és az oldal alapítója. Karrierje zongoraleckékkel kezdődött, majd jött 2001-ben a <a href="http://adamfiregate.com/" target="_blank">zeneszerzés</a>, hangszín-tervezés és a <a href="https://www.facebook.com/afmastering/" target="_blank">hangmérnöki tevékenységek</a>. 2013 óta ír angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>.</p>
         </div>
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/spet.jpg" alt="Szigetvári Zsolt fotó">
           <h3>Szigetvári Zsolt</h3>
-          <h4>szakmai lektor, zenész</h4>
+          <h4>szakmai lektorálás, zenész</h4>
           <p><a href="https://soundcloud.com/spetmusic" target="_blank">Londonban élő producer</a>, drum and bass és rap mester.</p>
         </div>
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/deepsec.jpg" alt="Dobóczi Attila fotó">
           <h3>Dobóczi Attila</h3>
-          <h4>szakmai lektor, zenész</h4>
+          <h4>szakmai lektorálás, zenész</h4>
           <p><a href="https://soundcloud.com/deepsec" target="_blank">Deep és progi house felelős</a>. Mindig van valamilyen egyedi hangszerelési ötlete. Terek és atmoszférák megalkotója.</p>
         </div>
 
       </div>
 
       <h2 id="kapcsolat">Kapcsolat</h2>
-      <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.jpg" alt="High end studio fotó">
+      <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.png" alt="High end studio fotó">
       <p>
         <a href="https://www.facebook.com/groups/audiomasteringesmixing/" target="_blank">Csatlakozz a FaceBook csoporthoz!</a><br>
         <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot fizetős mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
