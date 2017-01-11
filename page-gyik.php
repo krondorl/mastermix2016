@@ -2,11 +2,10 @@
 
 <div id="primary" class="content-area">
 	<main id="main" class="site-main" role="main">
-	
 	 <h2>GYIK / Gyakori kérdések</h2>
 
     <p>Az alábbiakban összeírtam néhány választ kezdőknek, hogy egyszerűbb legyen dönteni.</p>
-   
+
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen számítógépet vegyek zenei célokra?</h3>
@@ -23,12 +22,10 @@
        <img src="https://www.scan.co.uk/images/3xs/configurations/config/10181.png" alt="">
      </div>
    </div>
-   
-   
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen kezdő hangkártyát vegyek?</h3>
-
         <ul>
           <li><a href="http://hitspace.hu/steinberg-ur-22-mk2.html" target="_blank">Steinberg UR22 (stabilabb driver Win 7, 8 és 10 alatt is a másikhoz képest)</a></li>
           <li><a href="http://hitspace.hu/focusrite-scarlett-2i2-1.html" target="_blank">Focusrite 2i2</a></li>
@@ -38,8 +35,7 @@
         <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/s/t/steinberg_ur22_mkii_ur22mkii_usb_2_0_1194109.jpg" alt="">
       </div>
     </div>
-      
-   
+
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen kezdő monitor hangfalat vegyek?</h3>
@@ -54,58 +50,49 @@
        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/m/r/mrcomparsion.jpg" alt="">
      </div>
    </div>
-   
-    
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen akusztikai szivacsot vegyek a hangfal alá?</h3>
-
         <p>
           <a href="http://hitspace.hu/auralex-auralex-mopad-4-pack.html" target="_blank">Auralex MoPAD 4</a>
         </p>
-        
       </div>
       <div class="col-md-4 nopadding">
       </div>
     </div>
-    
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen akusztikai állványt tegyek a hangfal alá?</h3>
-
         <p>
           <a href="http://hitspace.hu/isoacoustics" target="_blank">IsoAcoustics L8 széria</a>
         </p>
-        
       </div>
       <div class="col-md-4 nopadding">
       </div>
     </div>
-    
 
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen fejhallgatót vegyek?</h3>
-
+        <p>A <strong>nyitott fejesek előnye</strong>, hogy órákon át kényelmes használni őket. A zártaknál pedig érdemes 30-40 percenként szünetet tartani.</p>
         <ul>
-          <li><a href="http://hitspace.hu/audio-technica-ath-m50x.html" target="_blank">Audio-Technica ATH-M50X</a></li>
-          <li><a href="http://hitspace.hu/sony-mdr-7506.html" target="_blank">Sony MDR-7506</a></li>
-          <li><a href="http://hitspace.hu/beyerdynamic-dt-770-pro-80-ohm.html" target="_blank">Beyerdynamic DT-770 Pro 80 Ohm</a></li>
-          <li><a href="http://hitspace.hu/beyerdynamic-dt-990-pro.html" target="_blank">Beyerdynamic DT-990 Pro</a></li>
-          <li><a href="http://hitspace.hu/akg-k271-mkii-studio.html" target="_blank">AKG K271 MKII Studio</a></li>
+          <li><a href="http://hitspace.hu/beyerdynamic-dt-990-pro.html" target="_blank">Beyerdynamic DT-990 Pro (nyitott)</a></li>
+          <li><a href="http://www.argep.hu/product_824759.html" target="_blank">AKG K 702 (nyitott)</a></li>
+          <li><a href="http://hitspace.hu/akg-k240-mkii.html" target="_blank">AKG K 240 MKII (félig nyitott)</a></li>
+          <li><a href="http://hitspace.hu/audio-technica-ath-m50x.html" target="_blank">Audio-Technica ATH-M50X (zárt)</a></li>
+          <li><a href="http://hitspace.hu/sony-mdr-7506.html" target="_blank">Sony MDR-7506 (zárt)</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
       </div>
     </div>
-            
-    
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen kezdő mikrofont vegyek?</h3>
-
         <p>A mikrofonnál figyelj arra, ha extra tápellátásra (+48V fantomtáp) van szüksége, pl. kondenzátoros mikrofon. AT 2020. Valamint a kondenzátoros mikrofon érzékenyebb hangerőre is a dinamikushoz képest.</p>
-        
         <ul>
           <li><a href="http://hitspace.hu/shure-sm57.html" target="_blank">Shure SM57 / általános célú hangszermikrofon (pergő, perka, gitárláda)</a></li>
           <li><a href="http://hitspace.hu/audio-technica-at-2020.html" target="_blank">Audio-Technica AT 2020 /  általános célú stúdió énekmikrofon (vokál, kórus, cinek)</a></li>
@@ -114,16 +101,13 @@
       <div class="col-md-4 nopadding">
       </div>
     </div>
-    
-    
-    
+
     <h3>Milyen olcsó fülhallgatót vegyek?</h3>
 
     <p>
       <a href="http://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/" target="_blank">Sennheiser MX 170</a>
     </p>
 
-    
     <div>
       <div class="col-md-8 nopadding">
 
@@ -136,12 +120,11 @@
             <a href="http://www.argep.hu/product_1808821.html" target="_blank">Zoom H2n</a>
           </li>
         </ul>
-        
       </div>
       <div class="col-md-4 nopadding">
       </div>
     </div>
-                            
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen MIDI billentyűzetet vegyek?</h3>
