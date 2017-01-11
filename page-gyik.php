@@ -66,7 +66,6 @@
         
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/a/u/auralex-mopad-monitor-isolation-pads.jpg" alt="">
       </div>
     </div>
     
@@ -80,7 +79,6 @@
         
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/1/6/1600-isol8r200sub_detail3.jpg" alt="">
       </div>
     </div>
     
@@ -98,7 +96,6 @@
         </ul>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/d/t/dt770p_big.jpg" alt="">
       </div>
     </div>
             
@@ -115,7 +112,6 @@
         </ul>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/s/m/sm57-xlarge.jpg" alt="" style="max-height: 300px;">
       </div>
     </div>
     
@@ -143,7 +139,6 @@
         
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/1/4/1439.jpg" alt="">
       </div>
     </div>
                             
@@ -158,14 +153,12 @@
 
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/m/i/miditechmidistartmusic49.jpeg" alt="">
       </div>
     </div>
-                            
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Az egyik cucc, pl. fül / fejhallgató 20 Hz - 20 kHz-et tud, akkor az jó, ugye?</h3>
-
         <p>Nem. A legtöbb ilyen sajnos marketing duma.
         Általában akkor lehet elhinni,
         ha megvan adva vizuális grafikon,
@@ -173,33 +166,25 @@
         Pl. ha a 20 Hz-et -50 dB hangerővel viszi át, abból nem sokat fogsz hallani :) Példának okáért nézd meg ezt a high end hangfalat.
         Az <a href="http://www.thomann.de/gb/event_opal.htm" target="_blank">Event Opal hangfalnak</a> 35 Hz az alja és darabja több mint 500.000 Ft.</p>
 
-        <p>Érdemes megnézni az Opal frekvencia válasz diagramját.</p>
-        
+        <p>Érdemes megnézni <a href="http://www.eventelectronics.com/images/opal-freq-response-large.gif" target="_blank">az Opal frekvencia válasz diagramját</a>.</p>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://www.eventelectronics.com/images/opal-freq-response-large.gif" alt="Event Opal frekvencia válasz diagram">
-        
       </div>
     </div>
-            
+
    <div>
      <div class="col-md-8 nopadding">
         <h3>Az egyik hangfal 1000 Watt-ot tud, akkor az jó hangos, ugye?</h3>
-
         <p>Nem. Mert nem a hangfal terhelhetősége számít, hanem a hangerő érzékenység, ami decibelben van megadva jobb helyeken.</p>
-       
         <p><a href="http://www.hangaruhaz.hu/cms/watt-vagy-decibel-kezdoknek" target="_blank">A teljesítmény és a hangnyomás összefüggése (cikk).</a></p>
-       
      </div>
      <div class="col-md-4 nopadding">
-       <img src="https://www.thomann.de/pics/bdb/234475/9117391_800.jpg" alt="" style="max-height: 370px;">
      </div>
    </div>
-   
+
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen studio programot / DAW használjak kimondottan mixingre és masteringre?</h3>
-
         <ul>
           <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a></li>
           <li><a href="http://www.reaper.fm/" target="_blank">Reaper</a></li>
@@ -209,7 +194,6 @@
         </ul>
      </div>
      <div class="col-md-4 nopadding">
-       <img src="http://static.wixstatic.com/media/25c240_4db02721f3a943fab7fecaba7fa690a9.jpg/v1/fill/w_476,h_290,al_c,q_80,usm_0.66_1.00_0.01/25c240_4db02721f3a943fab7fecaba7fa690a9.jpg" alt="">
      </div>
    </div>
    
@@ -228,9 +212,6 @@
         </ul>
      </div>
      <div class="col-md-4 nopadding">
-       <img src="https://www.image-line.com/flstudio/fl12full_1.jpg" alt=""> 
-       <div class="row">&nbsp;</div>
-       <img src="https://a.phcdn.se/static-live/img/reason/home-screenshots/reason8-3-screenshot.be0c90379fa3.jpg" alt="">
      </div>
    </div>
    
@@ -239,13 +220,15 @@
        <h3>Milyen plugineket használjak mixingre és masteringre?</h3>
 
         <ul>
+          <li><a href="http://www.tokyodawn.net/tokyo-dawn-labs/" target="_blank">Tokyo Dawn Labs (köztük ingyenes is)</a></li>
           <li><a href="http://www.fabfilter.com/" target="_blank">Fabfilter</a></li>
+          <li><a href="http://slatedigital.com/everything-bundle/" target="_blank">Slate Digital</a></li>
+          <li><a href="https://dmgaudio.com/" target="_blank">DMG Audio</a></li>
           <li><a href="http://www.waves.com/" target="_blank">Waves</a></li>
           <li><a href="http://www.uaudio.com/" target="_blank">Universal Audio</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
-       <img src="http://www.fabfilter.com/images/screenshots/screenshot_pro-q_full.jpg?v=1408014345" alt="">
      </div>
    </div>
   
@@ -258,7 +241,6 @@
       </p>
      </div>
      <div class="col-md-4 nopadding">
-       <img src="http://cdn.mos.musicradar.com/images/magblogs/computer-music/CM%20Plugins%20FAQ%20and%20list/CM%20Plugins_860x478_v2-970-80.jpg" alt="">
      </div>
    </div>
    
@@ -284,7 +266,6 @@
        
      </div>
      <div class="col-md-4 nopadding">
-       <img src="http://bedroomproducersblog.com/wp-content/uploads/2014/11/toy-keyboard-bass-station.jpg" alt="">
      </div>
    </div>
    
@@ -302,11 +283,9 @@
           </ul>
        </div>
        <div class="col-md-4 nopadding">
-         <img src="https://pbs.twimg.com/media/CHxsUzoWcAAkQh7.jpg" alt="">
          <p>&nbsp;</p>
        </div>
      </div>
-     
       <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen print és online magazinokat olvassak?</h3>
@@ -315,13 +294,11 @@
           <li><a href="http://www.musicradar.com/computermusic" target="_blank">Computer Music</a></li>
           <li><a href="http://www.musicradar.com/futuremusic" target="_blank">Future Music</a></li>
         </ul>
-        
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://www.cylonix.com/images/sosCOVER_April2013.jpg" alt="SOS magazine">
       </div>
     </div>
-  
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen könyveket olvassak mixing és mastering témában?</h3>
@@ -331,10 +308,9 @@
         </ul>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://ecx.images-amazon.com/images/I/51KqC7Iw-TL._SX391_BO1,204,203,200_.jpg" alt="Mixing secrets">
       </div>
     </div>
-    
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen könyvet ajánlasz zeneelmélet témában?</h3>
@@ -344,25 +320,20 @@
         </ul>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://www.panem.hu/images/stories/virtuemart/product/tantusz_zongora.jpg" alt="">
       </div>
     </div>
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen könyvet ajánlasz zeneszerzés témában?</h3>
-        
         <a href="http://www.amazon.com/Complete-Idiots-Guide-Composition-Guides/dp/1592574033" target="_blank">Idiot's guide to music composition</a>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://ecx.images-amazon.com/images/I/511YLPHgdKL._SX258_BO1,204,203,200_.jpg" alt="">
       </div>
     </div>
-    
-    
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen programot használjak képernyő videókhoz?</h3>
-        
         <ul>
           <li>
             <a href="https://www.techsmith.com/camtasia.html" target="_blank">Camtasia Studio (fizetős rögzítő + szerkesztő)</a>
@@ -374,20 +345,14 @@
             <a href="http://www.lwks.com/index.php?option=com_content&view=article&id=102&Itemid=213" target="_blank">Lightworks Free (ingyenes szerkesztő / freemium)</a>
           </li>
         </ul>
-        
-        
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://camstudio.org/images/software.gif" alt="">
       </div>
     </div>
-    
+
     <h3>Milyen magántanárt ajánlasz zeneelméletre és szerzésre?</h3>
-                                                        
     <p><a href="https://tutimagantanar.hu/keres" target="_blank">TUTI magántanár</a></p>
-    
     <h3>Milyen producer és mixing tanfolyamot ajánlasz?</h3>
-    
      <ul>
         <li>
           <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
@@ -396,7 +361,7 @@
          <a href="http://www.lynda.com/Audio-Music-training-tutorials/20-0.html" target="_blank">Lynda</a>
        </li>
      </ul>
-   
+
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen széket használjak, hogy ne menjen tönkre a hátam?</h3>
@@ -406,13 +371,11 @@
         <p>Itt találsz infot, hogyan <a href="http://fitball.hu/kiknek-ajanljuk/otthoni-edzeshez/fontos-informaciok/" target="_blank">válassz megfelelő labdát</a>.</p>
 
         <a href="http://www.r-med.com/r-med-fit-ball.html" target="_blank">R-med fitball vásárlása</a>
-        
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://fitball.hu/wp-content/uploads/2013/05/alapules.jpg" alt="">
       </div>
     </div>
-   
+
     </main><!-- .site-main -->
 </div><!-- .content-area -->
 
