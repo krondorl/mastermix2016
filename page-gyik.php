@@ -169,35 +169,51 @@
      <div class="col-md-8 nopadding">
         <h3>Milyen studio programot / DAW használjak kimondottan mixingre és masteringre?</h3>
         <ul>
-          <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a></li>
-          <li><a href="http://www.reaper.fm/" target="_blank">Reaper</a></li>
+          <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a> (tipp)</li>
+          <li><a href="http://www.steinberg.net/en/products/cubase/start.html" target="_blank">Steinberg Cubase Pro</a> (tipp)</li>
+          <li><a href="http://www.apple.com/logic-pro/" target="_blank">Apple Logic Pro</a></li>
+          <li><a href="http://www.reaper.fm/" target="_blank">Cockos Reaper</a> (tipp)</li>
           <li><a href="http://www.avid.com/US/products/pro-tools-software" target="_blank">Pro Tools</a></li>
-          <li><a href="http://www.apple.com/logic-pro/" target="_blank">Logic Pro</a></li>
-          <li><a href="http://www.steinberg.net/en/products/cubase/start.html" target="_blank">Cubase</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
      </div>
    </div>
-   
 
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen studio programot / DAW használjak kimondottan zeneszerzésre?</h3>
 
         <p>Amilyet szeretnél! A hangzás a használt hangmintákon, plugineken és mixingen fog múlni, és nem a studio programon.</p>
+        <p><strong>Válassz fegyvert!</strong> :)</p>
 
         <ul>
-          <li><a href="https://www.image-line.com/flstudio/" target="_blank">FL Studio</a></li>
-          <li><a href="https://www.propellerheads.se/reason" target="_blank">Reason</a></li>
-          <li><a href="http://studioone.presonus.com/" target="_blank">Studio One</a></li>
+          <li><a href="https://www.image-line.com/flstudio/" target="_blank">Image-Line FL Studio</a> (tipp)</li>
+          <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a> (tipp)</li>
+          <li><a href="http://www.steinberg.net/en/products/cubase/start.html" target="_blank">Steinberg Cubase Pro</a> (tipp)</li>
+          <li><a href="http://www.apple.com/logic-pro/" target="_blank">Apple Logic Pro</a> (tipp)</li>
+          <li><a href="http://www.presonus.com/products/Studio-One" target="_blank">PreSonus Studio One</a></li>
+          <li><a href="http://www.reaper.fm/" target="_blank">Cockos Reaper</a> (tipp)</li>
+          <li><a href="https://www.cakewalk.com/Products/SONAR" target="_blank">Cakewalk Sonar</a></li>
+          <li><a href="https://www.propellerheads.se/reason" target="_blank">Propellerhead Software Reason</a></li>
+          <li><a href="http://www.avid.com/US/products/pro-tools-software" target="_blank">Avid Pro Tools</a></li>
           <li><a href="http://www.bitwig.com/en/bitwig-studio.html" target="_blank">Bitwig Studio</a></li>
+          <li><a href="http://www.acoustica.com/mixcraft/mixcraft-pro-studio.html" target="_blank">Acoustica Mixcraft Pro Studio</a></li>
+          <li><a href="http://www.mutools.com/index.html" target="_blank">MuTools MuLab</a></li>
+          <li><a href="https://www.steinberg.net/en/products/nuendo_range/nuendo/start.html" target="_blank">Steinberg Nuendo</a></li>
+          <li><a href="http://www.magix-audio.com/za/samplitude/" target="_blank">Magix Samplitude Pro X</a></li>
+          <li><a href="https://www.renoise.com/" target="_blank">Renoise</a></li>
+          <li><a href="https://ardour.org/" target="_blank">Ardour</a></li>
+          <li><a href="http://www.motu.com/products/software/dp" target="_blank">MOTU Digital Performer</a></li>
+          <li><a href="http://www.apple.com/mac/garageband/" target="_blank">Apple GarageBand</a></li>
+          <li><a href="https://www.tracktion.com/" target="_blank">Tracktion Software Corporation Tracktion</a></li>
+          <li><a href="http://www.magix-audio.com/us/acid/" target="_blank">Magix Acid</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
      </div>
    </div>
-   
+
    <div>
      <div class="col-md-8 nopadding">
        <h3>Milyen plugineket használjak mixingre és masteringre?</h3>
@@ -226,7 +242,7 @@
      <div class="col-md-4 nopadding">
      </div>
    </div>
-   
+
     <h3>Hol találok ingyenes plugineket?</h3>
     <ul>
       <li>
@@ -242,17 +258,14 @@
      <div class="col-md-8 nopadding">
       <h3>Hol találok ingyenes hangmintákat?</h3>
       <ul>
-        <li><a href="https://cymatics.fm/free-download-vault/" target="_blank">Cymatics free downloads</a></li>
         <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
         <li><a href="http://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
+        <li><a href="https://cymatics.fm/free-download-vault/" target="_blank">Cymatics free downloads</a></li>
       </ul>
-       
      </div>
      <div class="col-md-4 nopadding">
      </div>
    </div>
-   
-    
 
      <div>
        <div class="col-md-8 nopadding">
