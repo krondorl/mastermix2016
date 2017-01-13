@@ -9,6 +9,7 @@
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen számítógépet vegyek zenei célokra?</h3>
+        <p>Tipp kezdésnek: Intel i5 vagy i7 processzor + 8-16 GB RAM + 120 GB SSD + 1 TB HDD</p>
        <ul>
         <li>
           <a href="https://www.scan.co.uk/3xs/custom/daw-digital-audio-workstation-pcs/workstations#anc" target="_blank">PC - Scan.co.uk - Pro Audio Workstations</a>
@@ -27,7 +28,7 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen kezdő hangkártyát vegyek?</h3>
         <ul>
-          <li><a href="http://hitspace.hu/steinberg-ur-22-mk2.html" target="_blank">Steinberg UR22 (stabilabb driver Win 7, 8 és 10 alatt is a másikhoz képest)</a></li>
+          <li><a href="http://hitspace.hu/steinberg-ur-22-mk2.html" target="_blank">Steinberg UR22 (stabilabb driver Win 7, 8 és 10 alatt is)</a></li>
           <li><a href="http://hitspace.hu/focusrite-scarlett-2i2-1.html" target="_blank">Focusrite 2i2</a></li>
         </ul>
       </div>
@@ -39,11 +40,12 @@
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen kezdő monitor hangfalat vegyek?</h3>
-
+        <p>A stúdió monitor hangfal 100 ezer per pártól kezdődik. Ez lenne a belépő szint. Hosszú távú befektetés, amivel sokáig el tudsz lenni a következő fejlesztésig. Értsd: 5-10 évig.</p>
+        <p>A Mackie mellett: stabil mélyek, érthető közép és magas. A Yamaha mellett: kevés mély, pontosabb közép.</p>
         <ul>
-          <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502 / általános</a></li>
-          <li><a href="http://hitspace.hu/mackie-mr5-mk3.html" target="_blank">Mackie MR5 mk3 / elektronikus zene <br>(stabil, érzékelhető mélyek, érthető közép és magas)</a></li>
-          <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7 / akusztikus zene, klasszikus zene <br>(gyengébb mély, pontosabb közép)</a></li>
+          <li><a href="http://hitspace.hu/mackie-mr5-mk3-1.html" target="_blank">Mackie MR5 mk3</a> (tipp)</li>
+          <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502</a></li>
+          <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
@@ -76,12 +78,13 @@
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen fejhallgatót vegyek?</h3>
+        <p>Egy jó fejes 45-50 ezer Ft-tól kezdődik, ezzel viszont akár 6-7 évig is el vagy, ha vigyázol rájuk.</p>
         <p>A <strong>nyitott fejesek előnye</strong>, hogy órákon át kényelmes használni őket. A zártaknál pedig érdemes 30-40 percenként szünetet tartani.</p>
         <ul>
-          <li><a href="http://hitspace.hu/beyerdynamic-dt-990-pro.html" target="_blank">Beyerdynamic DT-990 Pro (nyitott)</a></li>
-          <li><a href="http://www.argep.hu/product_824759.html" target="_blank">AKG K 702 (nyitott)</a></li>
+          <li><a href="http://hitspace.hu/beyerdynamic-dt-990-pro.html" target="_blank">Beyerdynamic DT-990 Pro (nyitott)</a> (tipp)</li>
+          <li><a href="http://www.argep.hu/product_824759.html" target="_blank">AKG K 702 (nyitott)</a> (tipp)</li>
           <li><a href="http://hitspace.hu/akg-k240-mkii.html" target="_blank">AKG K 240 MKII (félig nyitott)</a></li>
-          <li><a href="http://hitspace.hu/audio-technica-ath-m50x.html" target="_blank">Audio-Technica ATH-M50X (zárt)</a></li>
+          <li><a href="http://hitspace.hu/audio-technica-ath-m50x.html" target="_blank">Audio-Technica ATH-M50X (zárt)</a> (tipp)</li>
           <li><a href="http://hitspace.hu/sony-mdr-7506.html" target="_blank">Sony MDR-7506 (zárt)</a></li>
         </ul>
       </div>
@@ -114,7 +117,7 @@
         <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
         <ul>
           <li>
-            <a href="http://hitspace.hu/zoom-h1v2.html" target="_blank">Zoom H1</a>
+            <a href="http://hitspace.hu/zoom-h1-mb-matte-black.html" target="_blank">Zoom H1 MB</a>
           </li>
           <li>
             <a href="http://www.argep.hu/product_1808821.html" target="_blank">Zoom H2n</a>
