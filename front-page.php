@@ -163,32 +163,32 @@
       <ul class="stats">
         <li>
           <span class="book2 stat-icon"></span>
-          <strong>1250+</strong>
+          <strong>1500+</strong>
           könyvletöltés
         </li>
         <li>
           <span class="person stat-icon"></span>
-          <strong>300+</strong>
+          <strong>350+</strong>
           tanácsadás
         </li>
         <li>
           <span class="music stat-icon"></span>
-          <strong>120+</strong>
+          <strong>150+</strong>
           masterelt zene
         </li>
         <li>
           <span class="newspaper stat-icon"></span>
-          <strong>30</strong>
+          <strong>30+</strong>
           cikk angolul
         </li>
         <li>
           <span class="newspaper stat-icon"></span>
-          <strong>17</strong>
+          <strong>20</strong>
           cikk magyarul
         </li>
         <li>
           <span class="idea stat-icon"></span>
-          <strong>15</strong>
+          <strong>15+</strong>
           év tapasztalat
         </li>
       </ul>
@@ -217,13 +217,13 @@
       </div>
 
       <h2 id="kapcsolat">Kapcsolat</h2>
-      <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.png" alt="High end studio fotó">
+      <p><img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.png" alt="High end studio fotó"></p>
       <p>
         <a href="https://www.facebook.com/groups/audiomasteringesmixing/" target="_blank">Csatlakozz a FaceBook csoporthoz!</a><br>
         <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot fizetős mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
       </p>
       <div>
-        <?php echo do_shortcode('[contact-form-7 id="4" title="1 kapcsolati űrlap"]'); ?>
+        <?php /*echo do_shortcode('[contact-form-7 id="4" title="1 kapcsolati űrlap"]');*/ ?>
       </div>
 	</main><!-- .site-main -->
 </div><!-- .content-area -->
