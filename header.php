@@ -10,6 +10,15 @@
 	<?php endif; ?>
 	<?php wp_head(); ?>
 	<link rel="stylesheet" href="/wp-content/themes/mastermix2016/style.css?v<?php echo rand(111,9999); ?>">
+    <!--FAVICONS-->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://masteringmixing.hu/wp-content/themes/twentysixteen/../mastermix2016/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="https://masteringmixing.hu/wp-content/themes/twentysixteen/../mastermix2016/img/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://masteringmixing.hu/wp-content/themes/twentysixteen/../mastermix2016/img/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://masteringmixing.hu/wp-content/themes/twentysixteen/../mastermix2016/img/manifest.json">
+    <link rel="mask-icon" href="https://masteringmixing.hu/wp-content/themes/twentysixteen/../mastermix2016/img/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="https://masteringmixing.hu/wp-content/themes/twentysixteen/../mastermix2016/img/favicon.ico">
+    <meta name="msapplication-config" content="https://masteringmixing.hu/wp-content/themes/twentysixteen/../mastermix2016/img/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
 </head>
 
 <body <?php body_class(); ?> id="top">
