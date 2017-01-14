@@ -6,10 +6,10 @@
     <h1>Rám bíznád a zenéd véglegesítését?</h1>
     <h2>Érdeklődj nálam.</h2>
 
-    <h2>Kezdd itt!</h2>
+    <h2>Indulás!</h2>
     <p>Mielőtt konkrét anyagot küldenél hozzám, kérlek küldd át a zenédet egy előzetes meghallgatásra:</p>
     <ul>
-    <li><code>adam.burucs@masteringmixing.hu</code></li>
+    <li><code>adam@masteringmixing.hu</code></li>
     <li>Soundcloud fetöltés</li>
     <li>privát megosztás</li>
     </ul>
@@ -40,6 +40,7 @@
     <li>Four Elements - mastering</li>
     <li>Martin - mastering</li>
     <li>Comstock - mixing, mastering, production</li>
+    <li>David Gellei - mixing, mastering, editing</li>
     <li>Stranger - mastering</li>
     <li>Incarnation - mixing, mastering</li>
     <li>Eva Rambala - mixing, mastering, editing</li>
@@ -271,7 +272,7 @@
     <li>Google Drive</li>
     <li>WeTransfer</li>
     </ul>
-    <p>Ide küldd a csomagot: <code>adam.burucs@masteringmixing.hu</code></p>
+    <p>Ide küldd a csomagot: <code>adam@masteringmixing.hu</code></p>
 
     <h3>— Köszi az érdeklődést! Jó zenélést. üdv, Ádám</h3>
 
