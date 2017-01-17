@@ -9,7 +9,9 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php endif; ?>
 	<?php wp_head(); ?>
+	<?php /*
 	<link rel="stylesheet" href="/wp-content/themes/mastermix2016/style.css?v<?php echo rand(111,9999); ?>">
+    */?>
     <!--FAVICONS-->
     <link rel="apple-touch-icon" sizes="180x180" href="https://masteringmixing.hu/wp-content/themes/mastermix2016/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="https://masteringmixing.hu/wp-content/themes/mastermix2016/img/favicon-32x32.png" sizes="32x32">
