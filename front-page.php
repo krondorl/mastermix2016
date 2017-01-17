@@ -6,13 +6,17 @@
       <div class="clearfix">
         <div class="clearfix">
           <div class="pull-left col-xs-5 col-sm-3 noleftpad">
-            <img class="book" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/mastering-mixing-konyv-borito.jpg" alt="Audio mastering és mixing könyv borító">
+            <img class="book" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/mastering-mixing-konyv-borito.jpg?v2" alt="Audio mastering és mixing könyv borító">
           </div>
           <div class="">
             <p>Átfogó könyv a mixingről és masteringről, hangmérnöki szempontból (final mix, mixdown, "végső keverés", "lekeverés").
             <p>Töltsd le a 72 oldalas <strong>INGYENES</strong> könyvet (<em>5000 Ft értékben</em>) és tanuld meg, hogy készíts <em>jobb hangzást!</em></p>
             <div>
-              <img class="download-arrow-down" src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/nyil-lefele.svg" alt="">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" width="120px" height="120px">
+              <g>
+              <polygon points="31,0 31,60.586 23.707,53.293 22.293,54.854 31.293,64 32.707,64 41.707,54.854 40.293,53.366 33,60.586 33,0" fill="#91DC5A"/>
+              </g>
+              </svg>
             </div>
             <div class="subscribe-container">
               <?php include_once 'subscribe.php'; ?>
