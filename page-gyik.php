@@ -33,7 +33,6 @@
         </ul>
       </div>
       <div class="col-md-4 nopadding">
-        <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/s/t/steinberg_ur22_mkii_ur22mkii_usb_2_0_1194109.jpg" alt="">
       </div>
     </div>
 
@@ -49,7 +48,6 @@
         </ul>
      </div>
      <div class="col-md-4 nopadding">
-       <img src="http://hitspace.hu/media/catalog/product/cache/1/image/2100x/6b9ffbf72458f4fd2d3cb995d92e8889/m/r/mrcomparsion.jpg" alt="">
      </div>
    </div>
 
