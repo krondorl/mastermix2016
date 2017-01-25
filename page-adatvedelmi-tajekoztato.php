@@ -23,7 +23,7 @@
     </p>
     
     <p>Az adatkezelés jogalapja: 2011. évi CXII. törvény az információs önrendelkezési jogról és az információszabadságról 5. § (1) bekezdés a) Az érintett hozzájárulása. </p>
-    <p>Hozzájárulás az adatkezeléshez: A felasználó regisztrációnál kifejezetten hozzájárulását adja az általa önkéntesen megadott személyes adatainak kezeléséhez. </p>
+    <p>Hozzájárulás az adatkezeléshez: A felhasználó regisztrációnál kifejezetten hozzájárulását adja az általa önkéntesen megadott személyes adatainak kezeléséhez. </p>
     <p><strong>Az adatgyűjtés célja:</strong> tájékoztatás, oktatás, letölthető anyagok, termékajánlás és kapcsolattartás. </p>
     <p><strong>Az adatkezelés időtartama</strong> a leiratkozásig tart, amit a felhasználó intéz. </p>
     <p>A felhasználó kérelmezheti az adatkezelőnél </p>
