@@ -30,6 +30,7 @@
     <li>JCK - mastering</li>
     <li>Cale Jera - mixing, mastering, production</li>
     <li>Benjamin Witt - mixing, mastering, production</li>
+    <li>DJ Rakoczi - mastering</li>
     <li>Deepsec - mixing, mastering, production</li>
     <li>Frensys - mixing, mastering, production</li>
     <li>Mr. Slack - mixing, mastering</li>
@@ -38,6 +39,7 @@
     <li>Vortex Panda Entertainment - mixing, mastering, sound design</li>
     <li>Rusty - mixing, mastering</li>
     <li>Four Elements - mastering</li>
+    <li>Miklos Kovacs - mixing, production</li>
     <li>Martin - mastering</li>
     <li>Comstock - mixing, mastering, production</li>
     <li>David Gellei - mixing, mastering, editing</li>
@@ -208,7 +210,7 @@
     </tbody>
     </table>
     <h2>Projekt file</h2>
-    <p>Ezzel a kész mixing projektet odaadom. Tökéletes tanulásra, inspirációra. Belelátsz mit-hogy csináltam.</p>
+    <p>Ezzel a kész mixing projektet odaadom. Tökéletes tanulásra, inspirációra. Belelátsz mit—hogy csináltam.</p>
     <p><strong>Ára: +8.000 Ft</strong> felár a teljes összeghez.</p>
     <p>Részletek:</p>
     <ul>
@@ -277,6 +279,6 @@
     <h3>— Köszi az érdeklődést! Jó zenélést. üdv, Ádám</h3>
 
     </main><!-- .site-main -->
-</div><!-- .content-area -->
+ </div><!-- .content-area -->
 
 <?php get_footer(); ?>
