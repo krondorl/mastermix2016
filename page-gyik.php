@@ -9,8 +9,16 @@
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen számítógépet vegyek zenei célokra?</h3>
-        <p>Tipp kezdésnek: Intel i5 vagy i7 processzor + 8-16 GB RAM + 120 GB SSD + 1 TB HDD</p>
+        <p>Konfig tipp:</p>
+        <ul>
+          <li>Intel i5 vagy i7 processzor</li>
+          <li>8—16 GB RAM</li>
+          <li>120 GB SSD</li>
+          <li>1 TB HDD</li>
+        </ul>
+        <p>Vásárlás:</p>
        <ul>
+        <li><a href="http://www.pc-outlet.hu/konfig.htm" target="_blank">Computer Imperium, új konfigok</a> (tipp)</li>
         <li>
           <a href="https://www.scan.co.uk/3xs/custom/daw-digital-audio-workstation-pcs/workstations#anc" target="_blank">PC - Scan.co.uk - Pro Audio Workstations</a>
         </li>
@@ -43,8 +51,8 @@
         <p>A Mackie mellett: stabil mélyek, érthető közép és magas. A Yamaha mellett: kevés mély, pontosabb közép.</p>
         <ul>
           <li><a href="http://hitspace.hu/mackie-mr5-mk3-1.html" target="_blank">Mackie MR5 mk3</a> (tipp)</li>
-          <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502</a></li>
           <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7</a></li>
+          <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
