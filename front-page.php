@@ -192,7 +192,7 @@
         </li>
         <li>
           <span class="idea stat-icon"></span>
-          <strong>15+</strong>
+          <strong>16</strong>
           év tapasztalat
         </li>
       </ul>
@@ -203,7 +203,7 @@
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/adam.jpg" alt="Burucs Ádám fotó">
           <h3>Burucs Ádám</h3>
           <h4>írás, mixing, mastering, zene</h4>
-          <p>A könyv szerzője és az oldal alapítója. Karrierje zongoraleckékkel kezdődött, majd jött 2001-ben a <a href="http://adamfiregate.com/" target="_blank">zeneszerzés</a>, hangszín-tervezés és a <a href="https://www.facebook.com/afmastering/" target="_blank">hangmérnöki tevékenységek</a>. 2013 óta ír angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>.</p>
+          <p>A könyv szerzője és az oldal alapítója vagyok. Karrierem zongoraleckékkel kezdődött, majd jött 2001-ben a <a href="http://adamfiregate.com/" target="_blank">zeneszerzés</a>, hangszín-tervezés és a <a href="https://www.facebook.com/afmastering/" target="_blank">hangmérnöki tevékenységek</a>. 2013 óta írok angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>.</p>
         </div>
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/spet.jpg" alt="Szigetvári Zsolt fotó">
@@ -224,7 +224,7 @@
       <p><img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/contact-studio.png" alt="High end studio fotó"></p>
       <p>
         <a href="https://www.facebook.com/groups/audiomasteringesmixing/" target="_blank">Csatlakozz a FaceBook csoporthoz!</a><br>
-        <a href="https://www.facebook.com/afmastering/" target="_blank">Kérj ajánlatot fizetős mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
+        <a href="/mastering/">Kérj ajánlatot fizetős mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
       </p>
       <div>
         <?php /*echo do_shortcode('[contact-form-7 id="4" title="1 kapcsolati űrlap"]');*/ ?>
