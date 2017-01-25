@@ -18,7 +18,7 @@
 <p>Steve itt arra gondol, hogy folyamatosan eredményeket tesznek le az asztalra. Mellébeszélés nélkül.</p>
 
 <ol>
-<li>Én ténylegesen csinálom is azokat a dolgokat, amikről beszélek. <strong>11 év aktív zenélés után</strong> mertem leírni az első cikkemet.</li>
+<li>Én ténylegesen csinálom is azokat a dolgokat, amikről beszélek. <strong>12 év aktív zenélés után</strong> mertem leírni az első cikkemet.</li>
 <li>Nem árulok varázspirulát. A lényeg a cselekvés. Csak akkor lesznek eredményeid, ha cselekszel.</li>
 <li>A <strong>gyakorlatra</strong> helyezem a hangsúlyt. Mert ez szállítja az eredeményeket. Nem fogok neked előadást tartani a hangok fizikájából. Nem fogunk differenciál egyenleteket megoldani a hangszínszabályzás beállításához. <br> Nem fogunk lineáris algebrát tanulni. És nem fogunk Fourier transzformációkat sem végezni.</li>
 </ol>
@@ -42,8 +42,8 @@
 
 <h2>Mi ez a MasteringMixing?</h2>
 
-<p>Ebben a projektben adom át azt a tudást, amit az utóbbi 15 évben szereztem.</p>
-<p>A 15 év lehet sok is. Vagy kevés. Azt figyeltem meg, hogy ez nem feltétlen a tudásszintet jelenti. <strong>Hanem az ELKÖTELEZŐDÉST.</strong></p>
+<p>Ebben a projektben adom át azt a tudást, amit az utóbbi 16 évben szereztem.</p>
+<p>A 16 év lehet sok is. Vagy kevés. Azt figyeltem meg, hogy ez nem feltétlen a tudásszintet jelenti. <strong>Hanem az ELKÖTELEZŐDÉST.</strong></p>
 
 <figure>
   <blockquote>
