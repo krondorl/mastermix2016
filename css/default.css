@@ -912,7 +912,7 @@
 /* mastermix main */
 
 body {
-  background: #fff url(../img/header-bg-2017.svg?v5);
+  background: #fff;
   font-family: "Trebuchet MS", sans-serif;
   font-size: 1.1rem;
 }
@@ -1056,11 +1056,11 @@ footer blockquote {
 }
 
 .site-branding .site-title a {
-  background: url(../img/masteringmixing-logo-2017-with-brandname-inverse.svg) no-repeat 0 0 / 386px 128px;
+  background: url(../img/masteringmixing-logo-2017-with-brandname-inverse.svg) no-repeat 0 0 / 290px 96px;
   display: block;
-  height: 128px;
+  height: 96px;
   text-indent: -9999px;
-  width: 386px;
+  width: 290px;
 }
 
 .site-header {
@@ -1069,6 +1069,7 @@ footer blockquote {
 
 .site-description {
   background-color: #fff;
+  display: none;
   font-size: 1.2rem;
   padding: .25rem;
 }
@@ -1182,6 +1183,10 @@ figure blockquote {
 @media (min-width: 768px) {
   .stats li {
     width: 49%;
+  }
+
+  body {
+    background: #fff url(../img/header-bg-2017.svg?v5);
   }
 }
 
