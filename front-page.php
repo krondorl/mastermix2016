@@ -187,7 +187,7 @@
         </li>
         <li>
           <span class="newspaper stat-icon"></span>
-          <strong>22</strong>
+          <strong>29</strong>
           cikk magyarul
         </li>
         <li>
