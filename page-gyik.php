@@ -23,7 +23,7 @@
           <a href="https://www.scan.co.uk/3xs/custom/daw-digital-audio-workstation-pcs/workstations#anc" target="_blank">PC - Scan.co.uk - Pro Audio Workstations</a>
         </li>
         <li>
-          <a href="http://www.istyle.eu/hu/mac/mac-mini/mac-mini-dual-core-i5-2-8ghz-2014.html" target="_blank">MAC - Istyle</a>
+          <a href="http://www.arukereso.hu/pc-konfiguracio-c3083/apple/mac-mini-mgeq2-p251869005/" target="_blank">MAC - Istyle</a>
         </li>
        </ul>
      </div>
@@ -206,7 +206,7 @@
           <li><a href="https://www.cakewalk.com/Products/SONAR" target="_blank">Cakewalk Sonar</a></li>
           <li><a href="https://www.propellerheads.se/reason" target="_blank">Propellerhead Software Reason</a></li>
           <li><a href="http://www.avid.com/US/products/pro-tools-software" target="_blank">Avid Pro Tools</a></li>
-          <li><a href="http://www.bitwig.com/en/bitwig-studio.html" target="_blank">Bitwig Studio</a></li>
+          <li><a href="https://www.bitwig.com/en/bitwig-studio.html" target="_blank">Bitwig Studio</a></li>
           <li><a href="http://www.acoustica.com/mixcraft/mixcraft-pro-studio.html" target="_blank">Acoustica Mixcraft Pro Studio</a></li>
           <li><a href="http://www.mutools.com/index.html" target="_blank">MuTools MuLab</a></li>
           <li><a href="https://www.steinberg.net/en/products/nuendo_range/nuendo/start.html" target="_blank">Steinberg Nuendo</a></li>
@@ -308,8 +308,8 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen könyveket olvassak mixing és mastering témában?</h3>
         <ul>
-          <li><a href="http://www.amazon.com/Mixing-Secrets-Small-Studio-Senior/dp/0240815807" target="_blank">Mixing Secrets for the Small Studio</a></li>
-          <li><a href="http://www.amazon.com/Mixing-Engineers-Handbook-Bobby-Owsinski/dp/128542087X/" target="_blank">The Mixing Engineer's Handbook</a></li>
+          <li><a href="https://www.amazon.com/Mixing-Secrets-Small-Studio-Senior/dp/0240815807" target="_blank">Mixing Secrets for the Small Studio</a></li>
+          <li><a href="https://www.amazon.com/Mixing-Engineers-Handbook-Bobby-Owsinski/dp/128542087X/" target="_blank">The Mixing Engineer's Handbook</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
@@ -320,7 +320,7 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen könyvet ajánlasz zeneelmélet témában?</h3>
         <ul>
-          <li><a href="http://www.panem.hu/webshop/tantusz-konyvek/zongora-cd-melleklettel-reszletek" target="_blank">Zongora - Panem kiadó (Dummies sorozat)</a></li>
+          <li><a href="http://www.panem.hu/webshop/tantusz-konyvek/zongora-cd-melleklettel-detail" target="_blank">Zongora - Panem kiadó (Dummies sorozat)</a></li>
           <li><a href="http://mek.oszk.hu/00200/00208/html/" target="_blank">Kabóca zenefüzetek</a></li>
         </ul>
       </div>
@@ -330,7 +330,7 @@
     <div>
       <div class="col-md-8 nopadding">
         <h3>Milyen könyvet ajánlasz zeneszerzés témában?</h3>
-        <a href="http://www.amazon.com/Complete-Idiots-Guide-Composition-Guides/dp/1592574033" target="_blank">Idiot's guide to music composition</a>
+        <a href="https://www.amazon.com/Complete-Idiots-Guide-Composition-Guides/dp/1592574033" target="_blank">Idiot's guide to music composition</a>
       </div>
       <div class="col-md-4 nopadding">
       </div>
@@ -347,7 +347,7 @@
             <a href="http://camstudio.org/" target="_blank">CamStudio (ingyenes rögzítő)</a>
           </li>
           <li>
-            <a href="http://www.lwks.com/index.php?option=com_content&view=article&id=102&Itemid=213" target="_blank">Lightworks Free (ingyenes szerkesztő / freemium)</a>
+            <a href="https://www.lwks.com/index.php?option=com_content&view=article&id=102&Itemid=213" target="_blank">Lightworks Free (ingyenes szerkesztő / freemium)</a>
           </li>
         </ul>
       </div>
@@ -363,7 +363,7 @@
           <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
         </li>
        <li>
-         <a href="http://www.lynda.com/Audio-Music-training-tutorials/20-0.html" target="_blank">Lynda</a>
+         <a href="https://www.lynda.com/Audio-Music-training-tutorials/20-0.html" target="_blank">Lynda</a>
        </li>
      </ul>
 
