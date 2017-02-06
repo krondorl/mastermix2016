@@ -1029,6 +1029,8 @@ h1, h2, h3 {
   border: 8px solid #ccc;
   float: left;
   margin: 0 2rem 1rem 0;
+  max-width: none;
+  width: auto;
 }
 
 .intro {
