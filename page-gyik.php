@@ -36,8 +36,8 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen kezdő hangkártyát vegyek?</h3>
         <ul>
-          <li><a href="http://hitspace.hu/steinberg-ur-22-mk2.html" target="_blank">Steinberg UR22 (stabilabb driver Win 7, 8 és 10 alatt is)</a></li>
-          <li><a href="http://hitspace.hu/focusrite-scarlett-2i2-1.html" target="_blank">Focusrite 2i2</a></li>
+          <li><a href="http://www.argep.hu/product_2304203.html" target="_blank">Steinberg UR22 (stabilabb driver Win 7, 8 és 10 alatt is)</a></li>
+          <li><a href="http://www.argep.hu/product_1868549.html" target="_blank">Focusrite 2i2</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
@@ -50,9 +50,9 @@
         <p>A stúdió monitor hangfal 100 ezer per pártól kezdődik. Ez lenne a belépő szint. Hosszú távú befektetés, amivel sokáig el tudsz lenni a következő fejlesztésig. Értsd: 5-10 évig.</p>
         <p>A Mackie mellett: stabil mélyek, érthető közép és magas. A Yamaha mellett: kevés mély, pontosabb közép.</p>
         <ul>
-          <li><a href="http://hitspace.hu/mackie-mr5-mk3-1.html" target="_blank">Mackie MR5 mk3</a> (tipp)</li>
-          <li><a href="http://hitspace.hu/yamaha-hs7.html" target="_blank">Yamaha HS7</a></li>
-          <li><a href="http://hitspace.hu/tannoy-reveal-502.html" target="_blank">Tannoy REVEAL 502</a></li>
+          <li><a href="http://www.argep.hu/product_2343018.html" target="_blank">Mackie MR5 mk3</a> (tipp)</li>
+          <li><a href="http://www.argep.hu/product_2343003.html" target="_blank">Yamaha HS7</a></li>
+          <li><a href="http://www.argep.hu/product_2487071.html" target="_blank">Tannoy REVEAL 502</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
@@ -63,7 +63,7 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen akusztikai szivacsot vegyek a hangfal alá?</h3>
         <p>
-          <a href="http://hitspace.hu/auralex-auralex-mopad-4-pack.html" target="_blank">Auralex MoPAD 4</a>
+          <a href="http://www.argep.hu/main.aspx?suche=Auralex+MoPAD" target="_blank">Auralex MoPAD 4</a>
         </p>
       </div>
       <div class="col-md-4 nopadding">
@@ -74,7 +74,7 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen akusztikai állványt tegyek a hangfal alá?</h3>
         <p>
-          <a href="http://hitspace.hu/isoacoustics" target="_blank">IsoAcoustics L8 széria</a>
+          <a href="http://www.argep.hu/main.aspx?suche=IsoAcoustics+l8r" target="_blank">IsoAcoustics L8 széria</a>
         </p>
       </div>
       <div class="col-md-4 nopadding">
@@ -87,11 +87,11 @@
         <p>Egy jó fejes 45-50 ezer Ft-tól kezdődik, ezzel viszont akár 6-7 évig is el vagy, ha vigyázol rájuk.</p>
         <p>A <strong>nyitott fejesek előnye</strong>, hogy órákon át kényelmes használni őket. A zártaknál pedig érdemes 30-40 percenként szünetet tartani.</p>
         <ul>
-          <li><a href="http://hitspace.hu/beyerdynamic-dt-990-pro.html" target="_blank">Beyerdynamic DT-990 Pro (nyitott)</a> (tipp)</li>
+          <li><a href="http://www.argep.hu/product_311271.html" target="_blank">Beyerdynamic DT-990 Pro (nyitott)</a> (tipp)</li>
           <li><a href="http://www.argep.hu/product_824759.html" target="_blank">AKG K 702 (nyitott)</a> (tipp)</li>
-          <li><a href="http://hitspace.hu/akg-k240-mkii.html" target="_blank">AKG K 240 MKII (félig nyitott)</a></li>
-          <li><a href="http://hitspace.hu/audio-technica-ath-m50x.html" target="_blank">Audio-Technica ATH-M50X (zárt)</a> (tipp)</li>
-          <li><a href="http://hitspace.hu/sony-mdr-7506.html" target="_blank">Sony MDR-7506 (zárt)</a></li>
+          <li><a href="http://www.argep.hu/product_788806.html" target="_blank">AKG K 240 MKII (félig nyitott)</a></li>
+          <li><a href="http://www.argep.hu/product_2320577.html" target="_blank">Audio-Technica ATH-M50X (zárt)</a> (tipp)</li>
+          <li><a href="http://www.argep.hu/product_381496.html" target="_blank">Sony MDR-7506 (zárt)</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
@@ -103,8 +103,8 @@
         <h3>Milyen kezdő mikrofont vegyek?</h3>
         <p>A mikrofonnál figyelj arra, ha extra tápellátásra (+48V fantomtáp) van szüksége, pl. kondenzátoros mikrofon. AT 2020. Valamint a kondenzátoros mikrofon érzékenyebb hangerőre is a dinamikushoz képest.</p>
         <ul>
-          <li><a href="http://hitspace.hu/shure-sm57.html" target="_blank">Shure SM57 / általános célú hangszermikrofon (pergő, perka, gitárláda)</a></li>
-          <li><a href="http://hitspace.hu/audio-technica-at-2020.html" target="_blank">Audio-Technica AT 2020 /  általános célú stúdió énekmikrofon (vokál, kórus, cinek)</a></li>
+          <li><a href="http://www.argep.hu/product_368287.html" target="_blank">Shure SM57 / általános célú hangszermikrofon (pergő, perka, gitárláda)</a></li>
+          <li><a href="http://www.argep.hu/product_757190.html" target="_blank">Audio-Technica AT 2020 /  általános célú stúdió énekmikrofon (vokál, kórus, cinek)</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
@@ -123,7 +123,7 @@
         <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
         <ul>
           <li>
-            <a href="http://hitspace.hu/zoom-h1-mb-matte-black.html" target="_blank">Zoom H1 MB</a>
+            <a href="http://www.argep.hu/product_1354852.html" target="_blank">Zoom H1 MB</a>
           </li>
           <li>
             <a href="http://www.argep.hu/product_1808821.html" target="_blank">Zoom H2n</a>
@@ -139,8 +139,8 @@
         <h3>Milyen MIDI billentyűzetet vegyek?</h3>
 
         <ul>
-          <li><a href="http://hitspace.hu/miditech-midistart-music-49-1.html" target="_blank">Miditech MIDISTART MUSIC 49</a></li>
-          <li><a href="http://hitspace.hu/miditech-midistart-music-25.html" target="_blank">Miditech MIDISTART MUSIC 25</a></li>
+          <li><a href="http://www.argep.hu/main.aspx?suche=Miditech+MIDISTART+MUSIC+49&x=5&y=19" target="_blank">Miditech MIDISTART MUSIC 49</a></li>
+          <li><a href="http://www.argep.hu/main.aspx?suche=Miditech+MIDISTART+MUSIC+25" target="_blank">Miditech MIDISTART MUSIC 25</a></li>
         </ul>
 
       </div>
