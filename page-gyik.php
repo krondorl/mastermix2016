@@ -368,7 +368,6 @@
      </ul>
 
     <div>
-      <div class="col-md-8 nopadding">
         <h3>Milyen széket használjak, hogy ne menjen tönkre a hátam?</h3>
 
         <p>A standard a Herman Miller profi székek, de egy vagyonba kerülnek, alternativ megoldás lehet a fitlabda.</p>
@@ -376,12 +375,9 @@
         <p>Itt találsz infot, hogyan <a href="http://fitball.hu/kiknek-ajanljuk/otthoni-edzeshez/fontos-informaciok/" target="_blank">válassz megfelelő labdát</a>.</p>
 
         <a href="http://www.r-med.com/r-med-fit-ball.html" target="_blank">R-med fitball vásárlása</a>
-      </div>
-      <div class="col-md-4 nopadding">
-      </div>
     </div>
 
     </main><!-- .site-main -->
 </div><!-- .content-area -->
-
+<?php include_once 'meg-tobbet.php'; ?>
 <?php get_footer(); ?>

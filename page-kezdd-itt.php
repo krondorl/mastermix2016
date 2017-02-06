@@ -53,6 +53,7 @@
 
 <p>Ezzel egyetértek. De sokan szeretnének profibb hangzást. Akár az alapokat szeretnéd tudni, akár többet, tudok benne segíteni.</p>
 
+<?php /*
 <div style="text-align: center;">
   <h1>Vágj bele!</h1>
   <h2>Töltsd le az ingyenes Mastering és Mixing könyvem (5000 Ft értékben)!</h2>
@@ -60,8 +61,9 @@
   <h3>Cselekedj. Gyakorolj. Ismételj!</h3>
   <a href="/" class="download">Letöltés</a>
 </div>
-
+*/
+?>
     </main><!-- .site-main -->
 </div><!-- .content-area -->
-
+<?php include_once 'meg-tobbet.php'; ?>
 <?php get_footer(); ?>
