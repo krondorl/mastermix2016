@@ -1058,10 +1058,8 @@ footer blockquote {
 }
 
 .site-branding .site-title a {
-  background: url(../img/masteringmixing-logo-2017-with-brandname-inverse.svg) no-repeat 0 0 / 290px 96px;
   display: block;
   height: 96px;
-  text-indent: -9999px;
   width: 290px;
 }
 
@@ -1204,26 +1202,6 @@ figure blockquote {
   background-size: 46px 46px;
   display: block;
   height: 46px;
-}
-
-.music {
-  background-image: url(../img/hangszoro.svg);
-}
-
-.person {
-  background-image: url(../img/szemely.svg);
-}
-
-.book2 {
-  background-image: url(../img/konyv.svg);
-}
-
-.newspaper {
-  background-image: url(../img/ujsag.svg);
-}
-
-.idea {
-  background-image: url(../img/otlet.svg);
 }
 
 .noleftpad {
