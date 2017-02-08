@@ -1186,7 +1186,7 @@ figure blockquote {
   }
 
   body {
-    background: #fff url(../img/header-bg-2017.svg?v5);
+    background: #fff url('data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPi5zdDB7ZmlsbDojMDYyRjRGO308L3N0eWxlPjxyZWN0IGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgd2lkdGg9IjE5MjAiIGhlaWdodD0iMjE1Ii8+PC9zdmc+DQo=');
   }
 }
 
