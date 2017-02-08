@@ -379,5 +379,6 @@
 
     </main><!-- .site-main -->
 </div><!-- .content-area -->
+<?php echo do_shortcode('[ssba]'); ?>
 <?php include_once 'meg-tobbet.php'; ?>
 <?php get_footer(); ?>
