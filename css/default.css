@@ -998,7 +998,7 @@ ul, ol {
 
 .want-more {
   border: .2rem dashed orange;
-  margin-bottom: 5rem;
+  margin: 1rem auto 5rem;
   padding: .5rem 1rem;
 }
 
