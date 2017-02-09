@@ -4,14 +4,10 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta property="og:image" content="/wp-content/themes/mastermix2016/img/mastermix-fb-opengraph-image-v2.jpg" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<?php if ( is_singular() && pings_open( get_queried_object() ) ) : ?>
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php endif; ?>
 	<?php wp_head(); ?>
-	<?php /*
-	<link rel="stylesheet" href="/wp-content/themes/mastermix2016/style.css?v<?php echo rand(111,9999); ?>">
-    */?>
     <!--FAVICONS-->
     <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/mastermix2016/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/wp-content/themes/mastermix2016/img/favicon-32x32.png" sizes="32x32">
