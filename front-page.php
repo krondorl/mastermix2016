@@ -19,7 +19,7 @@
             </div>
       </div>
 
-     <h2 class="toc-h2">Tartalomjegyzék</h2>
+     <h2 class="toc-h2">Tartalomjegyzék — részletes lista</h2>
 
      <div class="clearfix toc">
       <ul class="col-sm-12">
@@ -76,7 +76,7 @@
 
      </div>
 
-      <h2>Visszajelzések</h2>
+      <h2>Visszajelzések — könyv, cikkek, videók</h2>
 
           <h3>
           <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve" width="64px" height="64px">
@@ -84,7 +84,7 @@
               <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
           </g>
           </svg>
-          A könyvről</h3>
+          A könyvről ezeket írták</h3>
       <figure>
         <blockquote>
         "Letisztult gondolatok, szerzői tapasztalatokra épített információk, melyek sallangmentes környezetet idézve elő, segítenek a tudásbővítésben. Külön kiemelném a DAW specifikus plugin-park leírás és magyarázat összeköttetését, ami véleményem szerint ritka jelenség egy szabad kiadványban."
@@ -164,7 +164,7 @@
               <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
           </g>
           </svg>
-      A videókról</h3>
+      A videókról mondták</h3>
 
       <figure>
         <blockquote>
@@ -176,7 +176,7 @@
       </figure>
       <hr>
 
-      <h2>Statisztikák</h2>
+      <h2>Részletes statisztikák</h2>
       <ul class="stats">
         <li>
           <div>
@@ -350,30 +350,30 @@
         </li>
       </ul>
 
-      <h2 class="about">Rólunk</h2>
+      <h2 class="about">Ismerj meg minket — rólunk röviden</h2>
       <div class="clearfix about-section">
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/adam.jpg" alt="Burucs Ádám fotó">
-          <h3>Burucs Ádám</h3>
-          <h4>írás, mixing, mastering, zene</h4>
+          <h3>Burucs Ádám<br>
+          — írás, mixing, mastering, zene</h3>
           <p>A könyv szerzője és az oldal alapítója vagyok. Karrierem zongoraleckékkel kezdődött, majd jött 2001-ben a <a href="http://adamfiregate.com/" target="_blank">zeneszerzés</a>, hangszín-tervezés és a <a href="https://www.facebook.com/afmastering/" target="_blank">hangmérnöki tevékenységek</a>. 2013 óta írok angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>.</p>
         </div>
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/spet.jpg" alt="Szigetvári Zsolt fotó">
-          <h3>Szigetvári Zsolt</h3>
-          <h4>szakmai lektorálás, zenész</h4>
+          <h3>Szigetvári Zsolt<br>
+          — szakmai lektorálás, zenész</h3>
           <p><a href="https://soundcloud.com/spetmusic" target="_blank">Londonban élő producer</a>, drum and bass és rap mester.</p>
         </div>
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/deepsec.jpg" alt="Dobóczi Attila fotó">
-          <h3>Dobóczi Attila</h3>
-          <h4>szakmai lektorálás, zenész</h4>
+          <h3>Dobóczi Attila<br>
+          — szakmai lektorálás, zenész</h3>
           <p><a href="https://soundcloud.com/deepsec" target="_blank">Deep és progi house felelős</a>. Mindig van valamilyen egyedi hangszerelési ötlete. Terek és atmoszférák megalkotója.</p>
         </div>
 
       </div>
 
-      <h2 id="kapcsolat">Kapcsolat</h2>
+      <h2 id="kapcsolat">Vedd fel velem a kapcsolatot ezeken a helyeken</h2>
       <p>
         <a href="https://www.facebook.com/groups/audiomasteringesmixing/" target="_blank">Csatlakozz a FaceBook csoporthoz!</a><br>
         <a href="/mastering/">Kérj ajánlatot fizetős mixing és mastering szolgáltatásra vagy zene kritikára!</a><br>
