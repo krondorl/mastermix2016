@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" href="/wp-content/themes/mastermix2016/img/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/wp-content/themes/mastermix2016/img/favicon-16x16.png" sizes="16x16">
     <link rel="manifest" href="/wp-content/themes/mastermix2016/img/manifest.json">
-    <link rel="mask-icon" href="/wp-content/themes/mastermix2016/img/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="mask-icon" href="/wp-content/themes/mastermix2016/img/safari-pinned-tab.svg">
     <link rel="shortcut icon" href="/wp-content/themes/mastermix2016/img/favicon.ico">
     <meta name="msapplication-config" content="/wp-content/themes/mastermix2016/img/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
@@ -27,7 +27,7 @@
 	<div class="site-inner">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentysixteen' ); ?></a>
 
-		<header id="masthead" class="site-header" role="banner">
+		<header id="masthead" class="site-header">
 			<div class="site-header-main">
 				<div class="site-branding">
 						<p class="site-title"><a href="/" rel="home">
