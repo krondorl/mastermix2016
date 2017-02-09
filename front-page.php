@@ -79,7 +79,7 @@
       <h2>Visszajelzések — könyv, cikkek, videók</h2>
 
           <h3>
-          <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve" width="64px" height="64px">
+          <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve" width="64px" height="64px">
           <g>
               <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
           </g>
@@ -123,7 +123,7 @@
       <hr>
 
       <h3>
-        <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve" width="64px" height="64px">
+        <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve" width="64px" height="64px">
           <g>
               <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
           </g>
@@ -159,7 +159,7 @@
 
       <hr>
       <h3>
-      <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve" width="64px" height="64px">
+      <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve" width="64px" height="64px">
           <g>
               <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
           </g>
@@ -180,7 +180,7 @@
       <ul class="stats">
         <li>
           <div>
-            <svg width="46" height="46" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg width="46" height="46" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
             <path d="M13,0c-1.547,0-3.033,0.662-4.078,1.817C7.895,2.954,7.389,4.476,7.525,6H7.5v48.958C7.5,57.738,9.762,60,12.542,60H52.5V11
                 V9V0H13z M9.5,54.958V9.998c0.836,0.629,1.875,1.002,3,1.002v46.996C10.842,57.973,9.5,56.621,9.5,54.958z M50.5,58h-36V11h3v25.201
@@ -198,7 +198,7 @@
         </li>
         <li>
           <div>
-            <svg width="46" height="46" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg width="46" height="46" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                    viewBox="0 0 482.9 482.9" style="enable-background:new 0 0 482.9 482.9;" xml:space="preserve">
               <g>
                   <g>
@@ -225,7 +225,7 @@
         </li>
         <li>
           <div>
-            <svg width="46" height="46" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg width="46" height="46" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                    viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
               <g>
                   <path d="M34.437,7.413c-0.979-0.561-2.143-0.553-3.115,0.019c-0.063,0.037-0.121,0.081-0.174,0.131L17.906,19.891
@@ -252,7 +252,7 @@
         </li>
         <li>
           <div>
-            <svg width="46" height="46" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg width="46" height="46" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 487.867 487.867" style="enable-background:new 0 0 487.867 487.867;" xml:space="preserve">
             <path d="M482.867,99.557h-48.097v-34.83c0-2.762-2.238-5-5-5H5c-2.762,0-5,2.238-5,5v330.881c0,17.938,14.595,32.533,32.533,32.533
                 h423.785c17.396,0,31.549-14.152,31.549-31.548V104.557C487.867,101.795,485.629,99.557,482.867,99.557z M477.867,396.593
@@ -279,7 +279,7 @@
         </li>
         <li>
           <div>
-            <svg width="46" height="46" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg width="46" height="46" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 487.867 487.867" style="enable-background:new 0 0 487.867 487.867;" xml:space="preserve">
             <path d="M482.867,99.557h-48.097v-34.83c0-2.762-2.238-5-5-5H5c-2.762,0-5,2.238-5,5v330.881c0,17.938,14.595,32.533,32.533,32.533
                 h423.785c17.396,0,31.549-14.152,31.549-31.548V104.557C487.867,101.795,485.629,99.557,482.867,99.557z M477.867,396.593
@@ -306,7 +306,7 @@
         </li>
         <li>
           <div>
-            <svg width="46" height="46" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg width="46" height="46" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  width="513.856px" height="513.855px" viewBox="0 0 513.856 513.855" style="enable-background:new 0 0 513.856 513.855;"
                  xml:space="preserve">
             <g>
