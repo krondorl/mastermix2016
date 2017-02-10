@@ -18,7 +18,7 @@
     <meta name="msapplication-config" content="/wp-content/themes/mastermix2016/img/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
     <link rel="icon" type="image/png" href="/wp-content/themes/mastermix2016/img/favicon-32x32.png" sizes="32x32">
-    <link rel="stylesheet" href="/wp-content/themes/mastermix2016/css/default.css?v<?php echo rand(111,9999); ?>">
+    <link rel="stylesheet" href="/wp-content/themes/mastermix2016/style.css?v<?php echo rand(111,9999); ?>">
 </head>
 
 <body <?php body_class(); ?> id="top">
@@ -31,7 +31,7 @@
 			<div class="site-header-main">
 				<div class="site-branding">
 						<p class="site-title"><a href="/" rel="home">
-						  <svg width="290" height="96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+						  <svg width="145" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 386 128" style="enable-background:new 0 0 386 128;" xml:space="preserve">
                         <style type="text/css">
                             .st0{fill:#FFFFFF;}
