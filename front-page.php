@@ -19,6 +19,108 @@
             </div>
       </div>
 
+     <h2>Nézz bele a legnépszerűbb Youtube videókba</h2>
+
+     <div class="container">
+       <div class="col-xs-12 col-sm-6">
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/EEqFeYyH5Fo?ecver=1" frameborder="0" allowfullscreen></iframe>
+       </div>
+       <div class="col-xs-12 col-sm-6">
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/BzTnU_14aY8?ecver=1" frameborder="0" allowfullscreen></iframe>
+       </div>
+     </div>
+
+     <h2>Olvasd el a legkeresettebb cikkeimet</h2>
+
+     <div class="container">
+       <div class="col-xs-12 col-sm-6">
+         <p>
+           <a href="/2016/11/05/mastering-munkafolyamat-deadmau5-szal/" target="_blank">
+           <img src="https://c7.staticflickr.com/6/5481/30672945502_6171dcab6d_b.jpg" alt="Deadmau5, Steve Duda és a mastering folyamat">
+           </a>
+         </p>
+         <p>
+           <a href="/2016/11/05/mastering-munkafolyamat-deadmau5-szal/" target="_blank">Mastering munkafolyamat Deadmau5-szal</a>
+         </p>
+         <p>Az egyik videóban Deadmau5 bemutatja a mastering munkafolyamatát, melyet a Razor márka szponzorált. A zenei részlet munkacíme Imaginary Friends és az előző részek alkalmával vezetett be minket a zenekészítés fázisaiba. A Razer Youtube csatornáján megtalálható a többi videó is.</p>
+       </div>
+       <div class="col-xs-12 col-sm-6">
+          <p>
+            <a href="/2016/05/02/kreativitas-tippek/" target="_blank"><img src="https://farm2.staticflickr.com/1480/26749304176_0449288bca_b.jpg" alt="Zenei eszközök"></a>
+          </p>
+          <p>
+            <a href="/2016/05/02/kreativitas-tippek/" target="_blank">Kreativitás tippek</a>
+          </p>
+          <p>Ha éppen megakadtál egy projekttel vagy szeretnéd felerősíteni a meglévő ötleteket, akkor ideje átgondolni néhány taktikát ezzel kapcsolatban.</p>
+       </div>
+     </div>
+
+     <div style="background: #eee; padding: 1rem;">
+       <div>
+         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64" height="64" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510; display: inline-block;" xml:space="preserve">
+          <g>
+              <g id="speaker">
+                  <path d="M382.5,0h-255c-28.05,0-51,22.95-51,51v408c0,28.05,22.95,51,51,51h255c28.05,0,51-22.95,51-51V51
+                      C433.5,22.95,410.55,0,382.5,0z M255,51c28.05,0,51,22.95,51,51s-22.95,51-51,51s-51-22.95-51-51S226.95,51,255,51z M255,459
+                      c-71.4,0-127.5-56.1-127.5-127.5S183.6,204,255,204c71.4,0,127.5,56.1,127.5,127.5S326.4,459,255,459z M255,255
+                      c-43.35,0-76.5,33.15-76.5,76.5S211.65,408,255,408c43.35,0,76.5-33.15,76.5-76.5S298.35,255,255,255z"/>
+              </g>
+          </g>
+          </svg>
+          <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               viewBox="0 0 34.418 34.418" style="enable-background:new 0 0 34.418 34.418; display: inline-block;" xml:space="preserve">
+          <g>
+              <path style="fill:#010002;" d="M32.335,11.606h-6.533v-1.009h6.533V11.606z M32.335,12.264h-6.533v1.011h6.533V12.264z
+                   M32.331,7.687h-6.523V9.91h6.523V7.687z M34.418,5.297v23.827c-0.001,0.357-0.292,0.648-0.65,0.648h-9.397
+                  c-0.359,0-0.649-0.291-0.649-0.649V5.297c0-0.358,0.29-0.65,0.649-0.65h9.397C34.127,4.647,34.418,4.939,34.418,5.297z
+                   M33.119,5.944h-8.1v22.53h8.1V5.944z M32.335,13.932h-6.533v1.008h6.533V13.932z M31.272,21.45c0,1.162-0.939,2.099-2.097,2.099
+                  c-1.16,0-2.099-0.938-2.099-2.099c0-1.158,0.94-2.098,2.099-2.098C30.333,19.352,31.272,20.293,31.272,21.45z M30.515,21.45
+                  c0-0.739-0.6-1.341-1.341-1.341c-0.742,0-1.342,0.601-1.342,1.341s0.6,1.34,1.342,1.34C29.915,22.79,30.515,22.19,30.515,21.45z
+                   M21.937,9.218v13.505c0,0.814-0.655,1.473-1.461,1.473H13.18c0,0-0.414,2.948,2.212,2.948v1.475H13.18H8.758H6.546v-1.473
+                  c2.529,0,2.212-2.948,2.212-2.948H1.465C0.656,24.198,0,23.539,0,22.725V9.218c0-0.814,0.656-1.47,1.465-1.47h19.01
+                  C21.282,7.748,21.937,8.404,21.937,9.218z M12.332,22.394c0-0.698-0.566-1.263-1.264-1.263c-0.699,0-1.266,0.565-1.266,1.263
+                  s0.566,1.265,1.266,1.265C11.767,23.659,12.332,23.092,12.332,22.394z M20.371,9.311H1.568v11.387H20.37h0.001
+                  C20.371,20.698,20.371,9.311,20.371,9.311z M11.081,21.603c-0.434,0-0.785,0.352-0.785,0.785s0.352,0.785,0.785,0.785
+                  s0.785-0.352,0.785-0.785S11.515,21.603,11.081,21.603z"/>
+          </g>
+          </svg>
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="64" height="64" viewBox="0 0 472.521 472.521" style="display: inline-block; enable-background:new 0 0 472.521 472.521;"
+               xml:space="preserve">
+          <g>
+              <path d="M436.578,159.876c-35.857-6.394-69.801-23.349-96.838-50.344c-27.008-27.022-43.944-60.947-50.315-96.812
+                  c36.306-22.745,88.937-14.689,125.391,21.753C451.246,70.915,459.297,123.555,436.578,159.876z M411.525,184.934
+                  c-34.438-9.625-66.721-27.482-93.226-53.96c-26.476-26.505-44.337-58.787-53.914-93.211
+                  c-22.714,36.321-14.659,88.934,21.754,125.374C322.594,199.563,375.191,207.632,411.525,184.934z M267.331,346.338
+                  c-45.294,0-77.679,28.306-106.255,53.271c-31.571,27.601-58.936,51.533-99.197,39.124c-7.966-5.866-8.202-10.66-8.291-12.288
+                  c-0.564-10.902,12.644-25.529,19.131-30.92c0.8-0.653,1.255-1.54,1.881-2.338c10.631,3.701,22.845,1.563,31.362-6.931
+                  L312.2,216.486c-17.058-7.241-33.313-17.723-47.482-31.911c-14.192-14.186-24.643-30.459-31.872-47.485L63.093,343.347
+                  c-7.552,7.551-9.743,18.001-7.685,27.713c-0.637,0.388-1.349,0.564-1.941,1.041c-3.244,2.665-31.584,26.771-30.177,55.762
+                  c0.504,10.193,4.947,24.908,23.352,37.229l3.629,1.773c11.803,3.939,22.803,5.656,33.141,5.656
+                  c40.335,0,70.424-26.294,97.626-50.077c26.934-23.546,52.386-45.784,86.294-45.784c78.159,0,138.659,83.751,139.279,84.577
+                  c4.826,6.902,14.338,8.438,21.119,3.589c6.842-4.831,8.438-14.281,3.612-21.114C428.527,439.74,361.274,346.338,267.331,346.338z"
+                  />
+          </g>
+          </svg>
+       </div>
+       <h2>Gyakori kérdéseidre itt találsz válaszokat</h2>
+       <h3><a href="/gyik/" target="_blank">Nézd meg a GYIK aloldalt!</a></h3>
+       <ul class="toc">
+         <li>hangkártya</li>
+         <li>hangfalak</li>
+         <li>fejhallgatók</li>
+         <li>akusztikai szivacs</li>
+         <li>mikrofon</li>
+         <li>fülhallgató</li>
+         <li>hangrögzítő</li>
+         <li>MIDI billentyűzet</li>
+         <li>DAW (studio) programok</li>
+         <li>mixing pluginek</li>
+         <li>mastering pluginek</li>
+       </ul>
+     </div>
+
      <h2 class="toc-h2">Tartalomjegyzék — részletes lista</h2>
 
      <div class="clearfix toc">
