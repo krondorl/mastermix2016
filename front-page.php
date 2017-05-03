@@ -322,7 +322,7 @@
               </g>
               </svg>
           </div>
-          <strong>350+</strong>
+          <strong>400+</strong>
           tanácsadás
         </li>
         <li>
