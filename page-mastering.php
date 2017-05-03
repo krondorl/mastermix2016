@@ -18,6 +18,9 @@
     <p>A több mint 150 mastering során többek között a következő művészek zenéin dolgoztam:</p>
 
     <ul>
+    <li>Louie Stick - stem mastering</li>
+    <li>Ghoeyash - mastering</li>
+    <li>Wesper - mixing, mastering</li>
     <li>Robbie Fithon - mixing, mastering, production</li>
     <li>Indio - stem mastering</li>
     <li>Cold Side Player - mixing, mastering</li>
@@ -56,6 +59,24 @@
       </blockquote>
       <footer>
       — <cite class="author">H-man / Ben Hehir</cite>
+      </footer>
+    </figure>
+
+    <figure>
+      <blockquote>
+       Ádám, imádlak! Kipróbáltam. Nekem nagyon tetszik. Hálás köszönettel!
+      </blockquote>
+      <footer>
+      — <cite class="author">Eva Rambala</cite>
+      </footer>
+    </figure>
+
+   <figure>
+      <blockquote>
+       Na! Hát ez ìgy eléggé egybe van a fülünknek! Köszi! :)
+      </blockquote>
+      <footer>
+      — <cite class="author">Louie Stick</cite>
       </footer>
     </figure>
 
