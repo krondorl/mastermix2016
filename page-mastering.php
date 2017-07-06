@@ -63,6 +63,15 @@
       </footer>
     </figure>
 
+    <figure>
+      <blockquote>
+        "Atyaisten!!! Ez hatalmas lett Ádám! Szép munka."
+      </blockquote>
+      <footer>
+      — <cite class="author">Kiss Balázs</cite>
+      </footer>
+    </figure>
+
      <figure>
       <blockquote>
       "Amazing track! Thx"
