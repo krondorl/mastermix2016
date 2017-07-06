@@ -4,9 +4,8 @@
 	<main id="main" class="site-main" role="main">
 
     <h1>Rám bíznád a zenéd véglegesítését?</h1>
-    <h2>Érdeklődj nálam.</h2>
 
-    <h2>Indulás!</h2>
+    <h2>Érdeklődj nálam.</h2>
     <p>Mielőtt konkrét anyagot küldenél hozzám, kérlek küldd át a zenédet egy előzetes meghallgatásra:</p>
     <ul>
     <li><code>adam@masteringmixing.hu</code></li>
@@ -25,6 +24,7 @@
     <li>Indio - stem mastering</li>
     <li>Cold Side Player - mixing, mastering</li>
     <li>The 69 Project - mastering</li>
+    <li>No One Name - mixing, mastering</li>
     <li>Hollab - mixing, mastering, production</li>
     <li>Thomas Szalkay - mixing, mastering</li>
     <li>Technikai Atallas - mastering</li>
@@ -34,6 +34,7 @@
     <li>Cale Jera - mixing, mastering, production</li>
     <li>Benjamin Witt - mixing, mastering, production</li>
     <li>DJ Rakoczi - mastering</li>
+    <li>Dedicated - mixing, mastering</li>
     <li>Deepsec - mixing, mastering, production</li>
     <li>Frensys - mixing, mastering, production</li>
     <li>Mr. Slack - mixing, mastering</li>
@@ -53,12 +54,48 @@
 
     <h2>A többiek véleménye</h2>
 
+     <figure>
+      <blockquote>
+        "Összetennék a kezüket, ha úgy tudnának hangokat keverni, vagy akár modulálni, mint te! Látom, hogy képben vagy... velük ellentétben."
+      </blockquote>
+      <footer>
+      — <cite class="author">F. János</cite>
+      </footer>
+    </figure>
+
+     <figure>
+      <blockquote>
+      "Amazing track! Thx"
+      </blockquote>
+      <footer>
+      — <cite class="author">No One Name / Diego Aragón</cite>
+      </footer>
+    </figure>
+
     <figure>
       <blockquote>
       "The mix overall is punchy and warm, mostly due to the nice drums and respectable guitars. I like the HiHats on this mix. It could be the EQ-ing or the reverb on them. But I definitely took notice."
       </blockquote>
       <footer>
       — <cite class="author">H-man / Ben Hehir</cite>
+      </footer>
+    </figure>
+
+    <figure>
+      <blockquote>
+       "A mix és a master is szerintem tökéletes. Azt kell mondjam, hogy talán az eddigi legjobb munka, amit hallottam az utóbbi pár évet tekintve tőled."
+      </blockquote>
+      <footer>
+      — <cite class="author">Dedicated</cite>
+      </footer>
+    </figure>
+
+    <figure>
+      <blockquote>
+       Most hallgatom... Szép munka !!
+      </blockquote>
+      <footer>
+      — <cite class="author">DJ Rakoczi</cite>
       </footer>
     </figure>
 
