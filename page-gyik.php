@@ -23,7 +23,7 @@
           <a href="https://www.scan.co.uk/3xs/custom/daw-digital-audio-workstation-pcs/workstations#anc" target="_blank">PC - Scan.co.uk - Pro Audio Workstations</a>
         </li>
         <li>
-          <a href="http://www.arukereso.hu/pc-konfiguracio-c3083/apple/mac-mini-mgeq2-p251869005/" target="_blank">MAC - Istyle</a>
+          <a href="http://www.arukereso.hu/pc-konfiguracio-c3083/apple/mac-mini-mgeq2-p251869005/" target="_blank">MAC - Arukereso</a>
         </li>
        </ul>
      </div>
