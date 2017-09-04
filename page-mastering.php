@@ -3,8 +3,7 @@
 <div id="primary" class="content-area">
 	<main id="main" class="site-main" role="main">
 
-    <h1>Rám bíznád a zenéd véglegesítését?</h1>
-
+    <h1>Bízd rám a zenéd véglegesítését!</h1>
     <h2>Érdeklődj nálam.</h2>
     <p>Mielőtt konkrét anyagot küldenél hozzám, kérlek küldd át a zenédet egy előzetes meghallgatásra:</p>
     <ul>
@@ -14,9 +13,11 @@
     </ul>
 
     <h2>Ügyféllista</h2>
-    <p>A több mint 150 mastering során többek között a következő művészek zenéin dolgoztam:</p>
+    <p>A több mint 170 mastering során többek között a következő művészek zenéin dolgoztam:</p>
 
     <ul>
+    <li>eNc - mastering</li>
+    <li>Ultraverse - mastering</li>
     <li>Louie Stick - stem mastering</li>
     <li>Ghoeyash - mastering</li>
     <li>Wesper - mixing, mastering</li>
