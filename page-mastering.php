@@ -63,6 +63,15 @@
       </footer>
     </figure>
 
+   <figure>
+      <blockquote>
+        "I was very pleased by this warm sound. Excellent, mixed with a big focus on the balance and details. There is obviously a lot of time and energy spent, as always desired with this kind of projects. A big + as we are used to with Adam Firegate."
+      </blockquote>
+      <footer>
+      — <cite class="author">Sooi Kerkhofs / Morninglory Music / label boss and musician</cite>
+      </footer>
+    </figure>
+
     <figure>
       <blockquote>
         "Atyaisten!!! Ez hatalmas lett Ádám! Szép munka."
