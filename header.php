@@ -16,7 +16,7 @@
     <link rel="mask-icon" href="/wp-content/themes/mastermix2016/img/safari-pinned-tab.svg">
     <link rel="shortcut icon" href="/wp-content/themes/mastermix2016/img/favicon.ico">
     <meta name="msapplication-config" content="/wp-content/themes/mastermix2016/img/browserconfig.xml">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#062F4F">
     <link rel="icon" type="image/png" href="/wp-content/themes/mastermix2016/img/favicon-32x32.png" sizes="32x32">
     <link rel="stylesheet" href="/wp-content/themes/mastermix2016/style.css?v<?php echo rand(111,9999); ?>">
 </head>
