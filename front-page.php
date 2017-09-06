@@ -42,11 +42,11 @@
          <p>
            <a href="/2016/11/05/mastering-munkafolyamat-deadmau5-szal/" target="_blank">Mastering munkafolyamat Deadmau5-szal</a>
          </p>
-         <p>Az egyik videóban Deadmau5 bemutatja a mastering munkafolyamatát, melyet a Razor márka szponzorált. A zenei részlet munkacíme Imaginary Friends és az előző részek alkalmával vezetett be minket a zenekészítés fázisaiba. A Razer Youtube csatornáján megtalálható a többi videó is.</p>
+         <p>Deadmau5 bemutatja a mastering munkafolyamatát. A zenei részlet munkacíme Imaginary Friends és az előző részek alkalmával vezetett be minket a zenekészítés fázisaiba.</p>
        </div>
        <div class="col-xs-12 col-sm-6">
           <p>
-            <a href="/2016/05/02/kreativitas-tippek/" target="_blank"><img src="https://farm2.staticflickr.com/1480/26749304176_0449288bca_b.jpg" alt="Zenei eszközök"></a>
+            <a href="/2016/05/02/kreativitas-tippek/" target="_blank"><img src="https://i.imgur.com/tpNiLXr.jpg" alt="Zenei eszközök"></a>
           </p>
           <p>
             <a href="/2016/05/02/kreativitas-tippek/" target="_blank">Kreativitás tippek</a>
@@ -55,15 +55,8 @@
        </div>
      </div>
 
-      <h2>Visszajelzések — könyv, cikkek, videók</h2>
+      <h2>Visszajelzések a könyvről</h2>
 
-          <h3>
-          <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve">
-          <g>
-              <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
-          </g>
-          </svg>
-          A könyvről ezeket írták</h3>
       <figure>
         <blockquote>
         "Letisztult gondolatok, szerzői tapasztalatokra épített információk, melyek sallangmentes környezetet idézve elő, segítenek a tudásbővítésben. Külön kiemelném a DAW specifikus plugin-park leírás és magyarázat összeköttetését, ami véleményem szerint ritka jelenség egy szabad kiadványban."
@@ -75,7 +68,7 @@
 
       <figure>
         <blockquote>
-        "Nos, személyes véleményem szerint különösen hasznos volt, amikor hat mixing példán keresztül is bemutattad a tanultakat, ugyanis az elméletet sok helyen is látni / olvasni lehet, de konkrétan nem igazán láttam bemutatva, hogy na ezt ezért meg azért csináltam. Továbbá egy kezdő számára szerintem kifejezetten hasznos, hogy több apróbb tanácsot is megosztasz, pl. CPU erőforrások megtartása, időmenedzsment, illetve, hogy mi - milyen hatással lehet a fejlődésre."
+        "[...] hat mixing példán keresztül is bemutattad a tanultakat, ugyanis az elméletet sok helyen is látni / olvasni lehet, de konkrétan nem igazán láttam bemutatva, hogy na ezt ezért meg azért csináltam. [...] kifejezetten hasznos, hogy több apróbb tanácsot is megosztasz, pl. CPU erőforrások megtartása, időmenedzsment, illetve, hogy mi - milyen hatással lehet a fejlődésre."
         </blockquote>
         <footer>
         — <cite class="author">Sándor Tamás</cite>
@@ -84,7 +77,7 @@
 
       <figure>
         <blockquote>
-        "Tisztelt Zeneszerkesztők! Nemrégiben hozzájutottam ehhez a nagyszerű anyaghoz itt a csoportban. Rengeteg dolgot lehet belőle tanulni. Érthetően, rávezetve dolgokra fogalmazza meg a témákat, az alapoktól egészen a végső fázisig Burucs Ádám kollégánk. Nekem kifejezetten tetszik a hangszínszabályozás témakör, sok érdekes dolgot tanultam belőle."
+        "[...] Rengeteg dolgot lehet belőle tanulni. Érthetően, rávezetve dolgokra fogalmazza meg a témákat, az alapoktól egészen a végső fázisig Burucs Ádám kollégánk. Nekem kifejezetten tetszik a hangszínszabályozás témakör, sok érdekes dolgot tanultam belőle."
         </blockquote>
         <footer>
         — <cite class="author">Balázs Róbert</cite>
@@ -93,7 +86,7 @@
 
       <figure>
         <blockquote>
-        "Csak mindig mással kellett csináltatni [a mixet], és így nem haladtunk. Igen, sokat segített. De ahhoz, hogy az elejetől a végéig gyakorlatban sikerüljön viszonylag profin, ahhoz más kell. De így az alapokba betekintést nyer az ember elég jó szinten. Respect érte!"
+        "[...] az alapokba betekintést nyer az ember elég jó szinten. Respect érte!"
         </blockquote>
         <footer>
         — <cite class="author">Takács Péter</cite>
@@ -101,24 +94,6 @@
       </figure>
       <hr>
 
-      <hr>
-      <h3>
-      <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve">
-          <g>
-              <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
-          </g>
-          </svg>
-      A videókról mondták</h3>
-
-      <figure>
-        <blockquote>
-        "Egyre jobbak ezek a videók, jó úton haladsz! :) Jah és thx a Mac-es [letöltő] linkért is!"
-        </blockquote>
-        <footer>
-        — <cite class="author">Chudák Róbert</cite>
-        </footer>
-      </figure>
-      <hr>
 
       <h2>Részletes statisztikák</h2>
       <ul class="stats">
@@ -302,17 +277,23 @@
           — írás, mixing, mastering, zene</h3>
           <p>A könyv szerzője és az oldal alapítója vagyok. Karrierem zongoraleckékkel kezdődött, majd jött 2001-ben a zeneszerzés, hangszín-tervezés és a <a href="https://www.facebook.com/afmastering/" target="_blank">hangmérnöki tevékenységek</a>. 2013 óta írok angol nyelvű <a href="http://tutsplus.com/authors/adam-burucs" target="_blank">szakmai cikkeket</a>.</p>
           <p>A MasteringMixing projektet 2015-ben indítottam be. Zenéimet megtalálod a <a href="https://www.youtube.com/user/AdamFiregate/videos" target="_blank">Youtube-on</a> és a <a href="https://www.beatport.com/artist/adam-firegate/142173/tracks" target="_blank">Beatporton</a> is.</p>
+          <p><svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" viewBox="0 0 593.641 593.641" style="enable-background:new 0 0 593.641 593.641;" xml:space="preserve">
+          <g>
+              <path d="M593.641,142.29c0,3.876-1.432,7.242-4.285,10.098l-385.56,385.56    c-2.448,2.856-5.712,4.284-9.792,4.284h-0.612h-0.612c-3.672,0-6.936-1.428-9.792-4.284L4.284,359.856    C1.428,356.184,0,352.717,0,349.452c0-3.264,1.428-6.729,4.284-10.403l76.5-76.5c6.936-6.12,13.872-6.12,20.808,0l91.8,92.412    L492.049,55.693c3.674-2.856,7.141-4.284,10.402-4.284c3.268,0,6.732,1.428,10.404,4.284l76.5,76.5    C592.211,135.048,593.641,138.414,593.641,142.29z" fill="#91DC5A"/>
+          </g>
+          </svg>
+          Szuper! :) Ha már itt tartasz, <a href="/kezdd-itt/">nézd meg a bővebb bemutatkozásom is.</a></p>
         </div>
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/spet.jpg" alt="Szigetvári Zsolt fotó">
           <h3>Szigetvári Zsolt<br>
-          — szakmai lektorálás, zenész</h3>
+          — szakmai lektorálás, zene</h3>
           <p><a href="https://soundcloud.com/spetmusic" target="_blank">Londonban élő producer</a>, drum and bass és rap mester.</p>
         </div>
         <div class="col-md-4">
           <img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/deepsec.jpg" alt="Dobóczi Attila fotó">
           <h3>Dobóczi Attila<br>
-          — szakmai lektorálás, zenész</h3>
+          — szakmai lektorálás, zene</h3>
           <p><a href="https://soundcloud.com/deepsec" target="_blank">Deep és progi house felelős</a>. Mindig van valamilyen egyedi hangszerelési ötlete. Terek és atmoszférák megalkotója.</p>
         </div>
 
