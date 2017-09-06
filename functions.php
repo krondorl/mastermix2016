@@ -28,7 +28,7 @@ add_action( 'init', 'disable_wp_emojicons' );
 
 function wpdocs_dequeue_script() {
   wp_deregister_script('wp-embed');
-  wp_dequeue_script( 'jquery' );
+//  wp_dequeue_script( 'jquery' );
 }
 add_action( 'wp_print_scripts', 'wpdocs_dequeue_script', 100 );
 
