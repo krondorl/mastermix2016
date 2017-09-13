@@ -87,12 +87,21 @@
         <p>Egy jó fejes 45-50 ezer Ft-tól kezdődik, ezzel viszont akár 6-7 évig is el vagy, ha vigyázol rájuk.</p>
         <p>A <strong>nyitott fejesek előnye</strong>, hogy órákon át kényelmes használni őket. A zártaknál pedig érdemes 30-40 percenként szünetet tartani.</p>
         <ul>
-          <li><a href="http://www.argep.hu/product_311271.html" target="_blank">Beyerdynamic DT-990 Pro (nyitott)</a> (tipp)</li>
-          <li><a href="http://www.argep.hu/product_824759.html" target="_blank">AKG K 702 (nyitott)</a> (tipp)</li>
-          <li><a href="http://www.argep.hu/product_788806.html" target="_blank">AKG K 240 MKII (félig nyitott)</a></li>
-          <li><a href="http://www.argep.hu/product_2320577.html" target="_blank">Audio-Technica ATH-M50X (zárt)</a> (tipp)</li>
+          <li><a href="http://www.argep.hu/product_311271.html" target="_blank">Beyerdynamic DT-990 Pro (nyitott)</a></li>
+          <li><a href="http://www.argep.hu/product_824759.html" target="_blank">AKG K 702 (nyitott)</a></li>
+          <li><a href="http://www.argep.hu/product_2320577.html" target="_blank">Audio-Technica ATH-M50X (zárt)</a></li>
           <li><a href="http://www.argep.hu/product_381496.html" target="_blank">Sony MDR-7506 (zárt)</a></li>
         </ul>
+      </div>
+      <div class="col-md-4 nopadding">
+      </div>
+    </div>
+
+    <div>
+      <div class="col-md-8 nopadding">
+        <h3>Milyen olcsó fejhallgatót vegyek?</h3>
+        <p>Ár-érték arányban a legolcsóbb, még klassz fejhallgató az M30x kb. 24 ezer Ft körül.</p>
+          <a href="http://www.argep.hu/product_2320570.html" target="_blank">Audio-Technica ATH-M30X (zárt)</a>
       </div>
       <div class="col-md-4 nopadding">
       </div>
@@ -103,8 +112,8 @@
         <h3>Milyen kezdő mikrofont vegyek?</h3>
         <p>A mikrofonnál figyelj arra, ha extra tápellátásra (+48V fantomtáp) van szüksége, pl. kondenzátoros mikrofon. AT 2020. Valamint a kondenzátoros mikrofon érzékenyebb hangerőre is a dinamikushoz képest.</p>
         <ul>
-          <li><a href="http://www.argep.hu/product_368287.html" target="_blank">Shure SM57 / általános célú hangszermikrofon (pergő, perka, gitárláda)</a></li>
-          <li><a href="http://www.argep.hu/product_757190.html" target="_blank">Audio-Technica AT 2020 /  általános célú stúdió énekmikrofon (vokál, kórus, cinek)</a></li>
+          <li><a href="http://www.argep.hu/product_368287.html" target="_blank">Shure SM57 / hangszer mikrofon</a></li>
+          <li><a href="http://www.argep.hu/main.aspx?suche=sm58se&x=0&y=0" target="_blank">Shure SM58SE / ének mikrofon</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
