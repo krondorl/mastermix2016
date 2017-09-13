@@ -726,6 +726,7 @@ a:active {
 
 .main-navigation {
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
+    margin: 0;
 }
 
 .site-footer .main-navigation {
@@ -2908,10 +2909,6 @@ p > video {
 		flex: 0 1 auto;
 	}
 
-	.main-navigation {
-		margin: 0 -0.875em;
-	}
-
 	.main-navigation .primary-menu,
 	.main-navigation .primary-menu > li {
 		border: 0;
@@ -4853,6 +4850,7 @@ body {
 .site-footer {
   min-height: 100px;
   padding-bottom: 1rem;
+  text-align: center;
 }
 
 .admin-bar:before {
@@ -5006,7 +5004,7 @@ main footer {
 .jump-top {
   display: inline-block;
   font-size: 1.4rem;
-  margin-bottom: 1.4rem;
+  margin-bottom: 1rem;
 }
 
 .download-arrow-down {
@@ -5151,4 +5149,26 @@ figure blockquote {
 
 .entry-title {
   font-size: 2rem;
+}
+
+.no-padding-left {
+  padding-left: 0 !important;
+}
+
+.no-padding-right {
+  padding-right: 0 !important;
+}
+
+.learn-better-sound {
+  margin: 0;
+}
+
+.free-book {
+  margin-top: 0;
+}
+
+.p-footer-jump,
+.p-footer-icons,
+.p-footer-copyright {
+  margin-bottom: 0;
 }
