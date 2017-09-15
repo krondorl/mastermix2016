@@ -15,43 +15,53 @@
     <h2>Ügyféllista</h2>
     <p>A több mint 170 mastering során többek között a következő művészek zenéin dolgoztam:</p>
 
-    <ul>
-    <li>eNc - mastering</li>
-    <li>Ultraverse - mastering</li>
-    <li>Louie Stick - stem mastering</li>
-    <li>Ghoeyash - mastering</li>
-    <li>Wesper - mixing, mastering</li>
-    <li>Robbie Fithon - mixing, mastering, production</li>
-    <li>Indio - stem mastering</li>
-    <li>Cold Side Player - mixing, mastering</li>
-    <li>The 69 Project - mastering</li>
-    <li>No One Name - mixing, mastering</li>
-    <li>Hollab - mixing, mastering, production</li>
-    <li>Thomas Szalkay - mixing, mastering</li>
-    <li>Technikai Atallas - mastering</li>
-    <li>Secdam Project - mixing, mastering, production</li>
-    <li>Display Girl / Pilotcamp - mixing, mastering</li>
-    <li>JCK - mastering</li>
-    <li>Cale Jera - mixing, mastering, production</li>
-    <li>Benjamin Witt - mixing, mastering, production</li>
-    <li>DJ Rakoczi - mastering</li>
-    <li>Dedicated - mixing, mastering</li>
-    <li>Deepsec - mixing, mastering, production</li>
-    <li>Frensys - mixing, mastering, production</li>
-    <li>Mr. Slack - mixing, mastering</li>
-    <li>Miklos Matrai - mixing, mastering, production</li>
-    <li>Tensile Force - mixing, mastering, production</li>
-    <li>Vortex Panda Entertainment - mixing, mastering, sound design</li>
-    <li>Rusty - mixing, mastering</li>
-    <li>Four Elements - mastering</li>
-    <li>Miklos Kovacs - mixing, production</li>
-    <li>Martin - mastering</li>
-    <li>Comstock - mixing, mastering, production</li>
-    <li>David Gellei - mixing, mastering, editing</li>
-    <li>Stranger - mastering</li>
-    <li>Incarnation - mixing, mastering</li>
-    <li>Eva Rambala - mixing, mastering, editing</li>
-    </ul>
+    <div class="container nopadding">
+      <div class="col-sm-6 col-xs-12 nopadding">
+        <ul>
+          <li>Christian Monique - mastering</li>
+          <li>Calzedon Guy - mastering</li>
+          <li>eNc - mastering</li>
+          <li>Ultraverse - mastering</li>
+          <li>Louie Stick - stem mastering</li>
+          <li>Ghoeyash - mastering</li>
+          <li>Wesper - mixing, mastering</li>
+          <li>Robbie Fithon - mixing, mastering, production</li>
+          <li>Indio - stem mastering</li>
+          <li>Cold Side Player - mixing, mastering</li>
+          <li>The 69 Project - mastering</li>
+          <li>No One Name - mixing, mastering</li>
+          <li>Hollab - mixing, mastering, production</li>
+          <li>Thomas Szalkay - mixing, mastering</li>
+          <li>Technikai Atallas - mastering</li>
+          <li>Secdam Project - mixing, mastering, production</li>
+          <li>Display Girl / Pilotcamp - mixing, mastering</li>
+          <li>JCK - mastering</li>
+          <li>Cale Jera - mixing, mastering, production</li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-xs-12 nopadding">
+        <ul>
+          <li>Benjamin Witt - mixing, mastering, production</li>
+          <li>DJ Rakoczi - mastering</li>
+          <li>Dedicated - mixing, mastering</li>
+          <li>Deepsec - mixing, mastering, production</li>
+          <li>Frensys - mixing, mastering, production</li>
+          <li>Mr. Slack - mixing, mastering</li>
+          <li>Miklos Matrai - mixing, mastering, production</li>
+          <li>Tensile Force - mixing, mastering, production</li>
+          <li>Vortex Panda Entertainment - mixing, mastering, sound design</li>
+          <li>Rusty - mixing, mastering</li>
+          <li>Four Elements - mastering</li>
+          <li>Miklos Kovacs - mixing, production</li>
+          <li>Martin - mastering</li>
+          <li>Comstock - mixing, mastering, production</li>
+          <li>David Gellei - mixing, mastering, editing</li>
+          <li>Stranger - mastering</li>
+          <li>Incarnation - mixing, mastering</li>
+          <li>Eva Rambala - mixing, mastering, editing</li>
+        </ul>
+      </div>
+    </div>
 
     <h2>A többiek véleménye</h2>
 
