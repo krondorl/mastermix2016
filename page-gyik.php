@@ -9,11 +9,11 @@
    <div>
      <div class="col-md-8 nopadding">
         <h3>Milyen számítógépet vegyek zenei célokra?</h3>
-        <p>Konfig tipp:</p>
+        <p>Konfig tipp, érdemes minden alkatrészből a legújabb modelleket vásárolni:</p>
         <ul>
           <li>Intel i5 vagy i7 processzor</li>
-          <li>8—16 GB RAM</li>
-          <li>120 GB SSD</li>
+          <li>16 GB RAM</li>
+          <li>240 GB SSD</li>
           <li>1 TB HDD</li>
         </ul>
         <p>Vásárlás:</p>
@@ -23,7 +23,7 @@
           <a href="https://www.scan.co.uk/3xs/custom/daw-digital-audio-workstation-pcs/workstations#anc" target="_blank">PC - Scan.co.uk - Pro Audio Workstations</a>
         </li>
         <li>
-          <a href="http://www.arukereso.hu/pc-konfiguracio-c3083/apple/mac-mini-mgeq2-p251869005/" target="_blank">MAC - Arukereso</a>
+          <a href="https://www.arukereso.hu/pc-konfiguracio-c3083/apple/mac-mini-mgeq2-p251869005/" target="_blank">MAC - Arukereso</a>
         </li>
        </ul>
      </div>
@@ -49,10 +49,12 @@
         <h3>Milyen kezdő monitor hangfalat vegyek?</h3>
         <p>A stúdió monitor hangfal 100 ezer per pártól kezdődik. Ez lenne a belépő szint. Hosszú távú befektetés, amivel sokáig el tudsz lenni a következő fejlesztésig. Értsd: 5-10 évig.</p>
         <p>A Mackie mellett: stabil mélyek, érthető közép és magas. A Yamaha mellett: kevés mély, pontosabb közép.</p>
+        <p>A Focal mellett: drágább, de az előbbieknél pontosabb lehallgatás.</p>
         <ul>
-          <li><a href="http://www.argep.hu/product_2343018.html" target="_blank">Mackie MR5 mk3</a> (tipp)</li>
+          <li><a href="http://www.argep.hu/main.aspx?suche=Mackie%20MR%20524" target="_blank">Mackie MR524</a></li>
           <li><a href="http://www.argep.hu/product_2343003.html" target="_blank">Yamaha HS7</a></li>
           <li><a href="http://www.argep.hu/product_2487071.html" target="_blank">Tannoy REVEAL 502</a></li>
+          <li><a href="http://www.argep.hu/product_2378728.html" target="_blank">Focal Alpha 65</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
@@ -61,21 +63,15 @@
 
     <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen akusztikai szivacsot vegyek a hangfal alá?</h3>
-        <p>
-          <a href="http://www.argep.hu/main.aspx?suche=Auralex+MoPAD" target="_blank">Auralex MoPAD 4</a>
-        </p>
-      </div>
-      <div class="col-md-4 nopadding">
-      </div>
-    </div>
-
-    <div>
-      <div class="col-md-8 nopadding">
-        <h3>Milyen akusztikai állványt tegyek a hangfal alá?</h3>
-        <p>
-          <a href="http://www.argep.hu/main.aspx?suche=IsoAcoustics+l8r" target="_blank">IsoAcoustics L8 széria</a>
-        </p>
+        <h3>Milyen akusztikai szivacsot vagy állványt vegyek a hangfal alá?</h3>
+        <ul>
+          <li>
+            <a href="http://www.argep.hu/main.aspx?suche=Auralex+MoPAD" target="_blank">Auralex MoPAD 4</a>
+          </li>
+          <li>
+            <a href="http://www.argep.hu/main.aspx?suche=IsoAcoustics+l8r" target="_blank">IsoAcoustics L8 széria</a>
+          </li>
+        </ul>
       </div>
       <div class="col-md-4 nopadding">
       </div>
@@ -123,7 +119,7 @@
     <h3>Milyen olcsó fülhallgatót vegyek?</h3>
 
     <p>
-      <a href="http://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/" target="_blank">Sennheiser MX 170</a>
+      <a href="https://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/" target="_blank">Sennheiser MX 170</a>
     </p>
 
     <div>
@@ -165,7 +161,7 @@
         ha megvan adva vizuális grafikon,
         vagy feltűntetve a válaszérték.
         Pl. ha a 20 Hz-et -50 dB hangerővel viszi át, abból nem sokat fogsz hallani :) Példának okáért nézd meg ezt a high end hangfalat.
-        Az <a href="http://www.thomann.de/gb/event_opal.htm" target="_blank">Event Opal hangfalnak</a> 35 Hz az alja és darabja több mint 500.000 Ft.</p>
+        Az <a href="https://www.thomann.de/gb/event_opal.htm" target="_blank">Event Opal hangfalnak</a> 35 Hz az alja és darabja több mint 500.000 Ft.</p>
 
         <p>Érdemes megnézni <a href="http://www.eventelectronics.com/images/opal-freq-response-large.gif" target="_blank">az Opal frekvencia válasz diagramját</a>.</p>
       </div>
@@ -189,8 +185,8 @@
         <ul>
           <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a> (tipp)</li>
           <li><a href="http://www.steinberg.net/en/products/cubase/start.html" target="_blank">Steinberg Cubase Pro</a> (tipp)</li>
-          <li><a href="http://www.apple.com/logic-pro/" target="_blank">Apple Logic Pro</a></li>
-          <li><a href="http://www.reaper.fm/" target="_blank">Cockos Reaper</a> (tipp)</li>
+          <li><a href="https://www.apple.com/logic-pro/" target="_blank">Apple Logic Pro</a></li>
+          <li><a href="https://www.reaper.fm/" target="_blank">Cockos Reaper</a> (tipp)</li>
           <li><a href="http://www.avid.com/US/products/pro-tools-software" target="_blank">Pro Tools</a></li>
         </ul>
      </div>
@@ -209,23 +205,23 @@
           <li><a href="https://www.image-line.com/flstudio/" target="_blank">Image-Line FL Studio</a> (tipp)</li>
           <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a> (tipp)</li>
           <li><a href="http://www.steinberg.net/en/products/cubase/start.html" target="_blank">Steinberg Cubase Pro</a> (tipp)</li>
-          <li><a href="http://www.apple.com/logic-pro/" target="_blank">Apple Logic Pro</a> (tipp)</li>
-          <li><a href="http://www.presonus.com/products/Studio-One" target="_blank">PreSonus Studio One</a></li>
-          <li><a href="http://www.reaper.fm/" target="_blank">Cockos Reaper</a> (tipp)</li>
+          <li><a href="https://www.apple.com/logic-pro/" target="_blank">Apple Logic Pro</a> (tipp)</li>
+          <li><a href="https://www.presonus.com/products/Studio-One" target="_blank">PreSonus Studio One</a></li>
+          <li><a href="https://www.reaper.fm/" target="_blank">Cockos Reaper</a> (tipp)</li>
           <li><a href="https://www.cakewalk.com/Products/SONAR" target="_blank">Cakewalk Sonar</a></li>
           <li><a href="https://www.propellerheads.se/reason" target="_blank">Propellerhead Software Reason</a></li>
           <li><a href="http://www.avid.com/US/products/pro-tools-software" target="_blank">Avid Pro Tools</a></li>
           <li><a href="https://www.bitwig.com/en/bitwig-studio.html" target="_blank">Bitwig Studio</a></li>
           <li><a href="http://www.acoustica.com/mixcraft/mixcraft-pro-studio.html" target="_blank">Acoustica Mixcraft Pro Studio</a></li>
           <li><a href="http://www.mutools.com/index.html" target="_blank">MuTools MuLab</a></li>
-          <li><a href="https://www.steinberg.net/en/products/nuendo_range/nuendo/start.html" target="_blank">Steinberg Nuendo</a></li>
-          <li><a href="http://www.magix-audio.com/za/samplitude/" target="_blank">Magix Samplitude Pro X</a></li>
+          <li><a href="https://www.steinberg.net/en/products/nuendo/start.html" target="_blank">Steinberg Nuendo</a></li>
+          <li><a href="http://www.magix.com/gb/samplitude/" target="_blank">Magix Samplitude Pro X</a></li>
           <li><a href="https://www.renoise.com/" target="_blank">Renoise</a></li>
           <li><a href="https://ardour.org/" target="_blank">Ardour</a></li>
           <li><a href="http://www.motu.com/products/software/dp" target="_blank">MOTU Digital Performer</a></li>
-          <li><a href="http://www.apple.com/mac/garageband/" target="_blank">Apple GarageBand</a></li>
+          <li><a href="https://www.apple.com/mac/garageband/" target="_blank">Apple GarageBand</a></li>
           <li><a href="https://www.tracktion.com/" target="_blank">Tracktion Software Corporation Tracktion</a></li>
-          <li><a href="http://www.magix-audio.com/us/acid/" target="_blank">Magix Acid</a></li>
+          <li><a href="http://www.magix.com/us/acid/" target="_blank">Magix Acid</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
@@ -238,11 +234,11 @@
 
         <ul>
           <li><a href="http://www.tokyodawn.net/tokyo-dawn-labs/" target="_blank">Tokyo Dawn Labs (köztük ingyenes is)</a></li>
-          <li><a href="http://www.fabfilter.com/" target="_blank">Fabfilter</a></li>
+          <li><a href="https://www.fabfilter.com/" target="_blank">Fabfilter</a></li>
           <li><a href="http://slatedigital.com/everything-bundle/" target="_blank">Slate Digital</a></li>
           <li><a href="https://dmgaudio.com/" target="_blank">DMG Audio</a></li>
-          <li><a href="http://www.waves.com/" target="_blank">Waves</a></li>
-          <li><a href="http://www.uaudio.com/" target="_blank">Universal Audio</a></li>
+          <li><a href="https://www.waves.com/" target="_blank">Waves</a></li>
+          <li><a href="https://www.uaudio.com/" target="_blank">Universal Audio</a></li>
         </ul>
      </div>
      <div class="col-md-4 nopadding">
@@ -264,7 +260,7 @@
     <h3>Hol találok ingyenes plugineket?</h3>
     <ul>
       <li>
-        <a href="http://bedroomproducersblog.com/free-vst-plugins/" target="_blank">Bedroom Producer Blog</a>
+        <a href="https://bedroomproducersblog.com/free-vst-plugins/" target="_blank">Bedroom Producer Blog</a>
       </li>
       <li>
         <a href="https://sites.google.com/site/kvrosc/recommended-plugins" target="_blank">KVR OSC plugins</a>
@@ -277,7 +273,7 @@
       <h3>Hol találok ingyenes hangmintákat?</h3>
       <ul>
         <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
-        <li><a href="http://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
+        <li><a href="https://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
         <li><a href="https://cymatics.fm/free-download-vault/" target="_blank">Cymatics free downloads</a></li>
       </ul>
      </div>
@@ -304,7 +300,7 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen print és online magazinokat olvassak?</h3>
         <ul>
-          <li><a href="http://www.soundonsound.com/" target="_blank">Sound On Sound</a></li>
+          <li><a href="https://www.soundonsound.com/" target="_blank">Sound On Sound</a></li>
           <li><a href="http://www.musicradar.com/computermusic" target="_blank">Computer Music</a></li>
           <li><a href="http://www.musicradar.com/futuremusic" target="_blank">Future Music</a></li>
         </ul>
@@ -329,8 +325,8 @@
       <div class="col-md-8 nopadding">
         <h3>Milyen könyvet ajánlasz zeneelmélet témában?</h3>
         <ul>
-          <li><a href="http://www.panem.hu/webshop/tantusz-konyvek/zongora-cd-melleklettel-detail" target="_blank">Zongora - Panem kiadó (Dummies sorozat)</a></li>
-          <li><a href="http://mek.oszk.hu/00200/00208/html/" target="_blank">Kabóca zenefüzetek</a></li>
+          <li><a href="http://zeneimarketing.hu/zeneelmelet-konyv/" target="_blank">Zeneimarketing.hu - Zeneelmélet (ingyenes)</a></li>
+          <li><a href="http://mek.oszk.hu/00200/00208/html/" target="_blank">Kabóca zenefüzetek (ingyenes)</a></li>
         </ul>
       </div>
       <div class="col-md-4 nopadding">
@@ -350,7 +346,7 @@
         <h3>Milyen programot használjak képernyő videókhoz?</h3>
         <ul>
           <li>
-            <a href="https://www.techsmith.com/camtasia.html" target="_blank">Camtasia Studio (fizetős rögzítő + szerkesztő)</a>
+            <a href="https://www.techsmith.com/video-editor.html" target="_blank">Camtasia Video Editor (fizetős rögzítő + szerkesztő)</a>
           </li>
           <li>
             <a href="http://camstudio.org/" target="_blank">CamStudio (ingyenes rögzítő)</a>
@@ -383,7 +379,7 @@
 
         <p>Itt találsz infot, hogyan <a href="http://fitball.hu/kiknek-ajanljuk/otthoni-edzeshez/fontos-informaciok/" target="_blank">válassz megfelelő labdát</a>.</p>
 
-        <a href="http://www.r-med.com/r-med-fit-ball.html" target="_blank">R-med fitball vásárlása</a>
+        <a href="https://www.r-med.com/r-med-fit-ball.html" target="_blank">R-med fitball vásárlása</a>
     </div>
 
     </main><!-- .site-main -->
