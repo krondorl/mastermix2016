@@ -7,7 +7,8 @@
     <h2>Érdeklődj nálam.</h2>
     <p>Mielőtt konkrét anyagot küldenél hozzám, kérlek küldd át a zenédet egy előzetes meghallgatásra:</p>
     <ul>
-    <li><code>adam@masteringmixing.hu</code></li>
+    <li><a href="https://www.facebook.com/adamfiregateicegate" target="_blank">személyes Facebook profilom</a></li>
+    <li><code>adam.burucs@gmail.com</code></li>
     <li>Soundcloud fetöltés</li>
     <li>privát megosztás</li>
     </ul>
@@ -194,107 +195,109 @@
 
     <h2>Stem Mastering csomagok</h2>
     <table>
-    <thead>
-    <tr>
-    <th>Alap csomag</th>
-    <th>Producer csomag</th>
-    <th>Mester csomag</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td>12.000 Ft</td>
-    <td>15.000 Ft</td>
-    <td>22.000 Ft</td>
-    </tr>
-    <tr>
-    <td>tanácsadás</td>
-    <td>tanácsadás</td>
-    <td>tanácsadás</td>
-    </tr>
-    <tr>
-    <td>1 zene</td>
-    <td>1 zene</td>
-    <td>1 zene</td>
-    </tr>
-    <tr>
-    <td>4 sávig</td>
-    <td>8 sávig</td>
-    <td>12 sávig</td>
-    </tr>
-    <tr>
-    <td>5 munkanapon belül</td>
-    <td>3 munkanapon belül</td>
-    <td>2 munkanapon belül</td>
-    </tr>
-    <tr>
-    <td>100% egyedi hang, sablon nélkül</td>
-    <td>100% egyedi hang, sablon nélkül</td>
-    <td>100% egyedi hang, sablon nélkül</td>
-    </tr>
-    <tr>
-    <td></td>
-    <td></td>
-    <td>részletes leírás a fejlődéshez</td>
-    </tr>
-    <tr>
-    <td></td>
-    <td></td>
-    <td>VIP tagság 1 hónapra</td>
-    </tr>
-    </tbody>
+      <caption>A stem mastering csomagok részletes leírása</caption>
+      <thead>
+        <tr>
+          <th>Alap csomag</th>
+          <th>Producer csomag</th>
+          <th>Mester csomag</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>12.000 Ft</td>
+          <td>15.000 Ft</td>
+          <td>22.000 Ft</td>
+        </tr>
+        <tr>
+          <td>tanácsadás</td>
+          <td>tanácsadás</td>
+          <td>tanácsadás</td>
+        </tr>
+        <tr>
+          <td>1 zene</td>
+          <td>1 zene</td>
+          <td>1 zene</td>
+        </tr>
+        <tr>
+          <td>4 sávig</td>
+          <td>8 sávig</td>
+          <td>12 sávig</td>
+        </tr>
+        <tr>
+          <td>5 munkanapon belül</td>
+          <td>3 munkanapon belül</td>
+          <td>2 munkanapon belül</td>
+        </tr>
+        <tr>
+          <td>100% egyedi hang, sablon nélkül</td>
+          <td>100% egyedi hang, sablon nélkül</td>
+          <td>100% egyedi hang, sablon nélkül</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td>részletes leírás a fejlődéshez</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td>VIP tagság 1 hónapra</td>
+        </tr>
+      </tbody>
     </table>
     <h2>Mixing + Mastering csomagok</h2>
     <table>
-    <thead>
-    <tr>
-    <th>Alap csomag</th>
-    <th>Producer csomag</th>
-    <th>Mester csomag</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td>32.000 Ft</td>
-    <td>45.000 Ft</td>
-    <td>55.000 Ft</td>
-    </tr>
-    <tr>
-    <td>tanácsadás</td>
-    <td>tanácsadás</td>
-    <td>tanácsadás</td>
-    </tr>
-    <tr>
-    <td>1 zene</td>
-    <td>1 zene</td>
-    <td>1 zene</td>
-    </tr>
-    <tr>
-    <td>30 sávig</td>
-    <td>60 sávig</td>
-    <td>korlátlan sávig</td>
-    </tr>
-    <tr>
-    <td>7 munkanapon belül</td>
-    <td>3 munkanapon belül</td>
-    <td>2 munkanapon belül</td>
-    </tr>
-    <tr>
-    <td>100% egyedi hang, sablon nélkül</td>
-    <td>100% egyedi hang, sablon nélkül</td>
-    <td>100% egyedi hang, sablon nélkül</td>
-    </tr>
-    <tr>
-    <td></td>
-    <td></td>
-    <td>részletes leírás a fejlődéshez</td>
-    </tr>
-    <tr>
-    <td></td>
-    <td></td>
-    <td>VIP tagság 1 hónapra</td>
-    </tr>
-    </tbody>
+      <caption>A mixing csomagok részletes leírása (masteringgel együtt)</caption>
+      <thead>
+        <tr>
+          <th>Alap csomag</th>
+          <th>Producer csomag</th>
+          <th>Mester csomag</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>32.000 Ft</td>
+          <td>45.000 Ft</td>
+          <td>55.000 Ft</td>
+        </tr>
+        <tr>
+          <td>tanácsadás</td>
+          <td>tanácsadás</td>
+          <td>tanácsadás</td>
+        </tr>
+        <tr>
+          <td>1 zene</td>
+          <td>1 zene</td>
+          <td>1 zene</td>
+        </tr>
+        <tr>
+          <td>30 sávig</td>
+          <td>60 sávig</td>
+          <td>korlátlan sávig</td>
+        </tr>
+        <tr>
+          <td>7 munkanapon belül</td>
+          <td>3 munkanapon belül</td>
+          <td>2 munkanapon belül</td>
+        </tr>
+        <tr>
+          <td>100% egyedi hang, sablon nélkül</td>
+          <td>100% egyedi hang, sablon nélkül</td>
+          <td>100% egyedi hang, sablon nélkül</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td>részletes leírás a fejlődéshez</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td>VIP tagság 1 hónapra</td>
+        </tr>
+      </tbody>
     </table>
     <h2>Projekt file</h2>
     <p>Ezzel a kész mixing projektet odaadom. Tökéletes tanulásra, inspirációra. Belelátsz mit—hogy csináltam.</p>
@@ -308,36 +311,42 @@
     <h2>Számla</h2>
     <p>Az árak nettóban értendők, adómentes (ÁFA mentes) számlát tudok kiállítani róluk.</p>
     <h2>VIP tagság</h2>
-    <p>A következőket tartalmazza:</p>
     <table>
-    <tbody>
-    <tr>
-    <td>időtartam</td>
-    <td>a vásárlás napjától 1 hónapig érvényes</td>
-    </tr>
-    <tr>
-    <td>elsőbbség</td>
-    <td>időben előbb kerülsz sorra (előzetes egyeztetés alapján)</td>
-    </tr>
-    <tr>
-    <td>megoldás</td>
-    <td>bővebb tanácsadás</td>
-    </tr>
-    <tr>
-    <td>segítség</td>
-    <td>konzultáció közvetlen telefonon</td>
-    </tr>
-    <tr>
-    <td>fejlődés</td>
-    <td>részletes cselekvési terv</td>
-    </tr>
-    </tbody>
+      <caption>A VIP tagság részletes leírása</caption>
+      <thead>
+        <tr>
+          <th>Tagsági szolgáltatás</th>
+          <th>Részletes leírás</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>időtartam</td>
+          <td>a vásárlás napjától 1 hónapig érvényes</td>
+        </tr>
+        <tr>
+          <td>elsőbbség</td>
+          <td>időben előbb kerülsz sorra (előzetes egyeztetés alapján)</td>
+        </tr>
+        <tr>
+          <td>megoldás</td>
+          <td>bővebb tanácsadás</td>
+        </tr>
+        <tr>
+          <td>segítség</td>
+          <td>konzultáció közvetlen telefonon</td>
+        </tr>
+        <tr>
+          <td>fejlődés</td>
+          <td>részletes cselekvési terv</td>
+        </tr>
+      </tbody>
     </table>
-    <h2>Konzultáció</h2>
-    <p>Csak személyesen veled foglalkozom 60 percen keresztül.</p>
-    <p>Jelenleg csak előzetes bejelentkezéssel és indokolt esetben fogadok új tanítványt. Kérlek Legalább 2-3 héttel előre jelezz.</p>
-    <p><strong>10.000 Ft / 60 perc</strong></p>
-    <p>Telefonon és voice chaten elérhető vagyok. Személyes találkozás kizárólag nálam lehetséges Budapesten XI. kerületben.</p>
+
+    <h2>Véleményezés, dokumentációval</h2>
+    <p>Egy A4-es PDF oldalon írom össze részletesen az észrevételeim. Mik az erősségek, hiányosságok és mit lehetne javítani a zenéden.</p>
+    <p><strong>1.500 Ft / dal (előre utalással)</strong></p>
+
     <h2>Beküldés</h2>
     <p>Kérlek tartsd be az alábbiakat:</p>
     <ul>
@@ -361,7 +370,7 @@
     <li>Google Drive</li>
     <li>WeTransfer</li>
     </ul>
-    <p>Ide küldd a csomagot: <code>adam@masteringmixing.hu</code></p>
+    <p>Ide küldd a csomagot: <code>adam.burucs@gmail.com</code></p>
 
     <h3>— Köszi az érdeklődést! Jó zenélést. üdv, Ádám</h3>
 
