@@ -4,11 +4,34 @@
 	<main id="main" class="site-main" role="main">
 	 <h2>GYIK / Gyakori kérdések</h2>
 
+    <h3>Tartalomjegyzék</h3>
+
+		<ul>
+			<li><a href="#szamitogep-zenei-celra">Számítógép zenei célra</a></li>
+			<li><a href="#hangkartya">Hangkártya</a></li>
+			<li><a href="#monitor-hangfal">Monitor hangfal</a></li>
+			<li><a href="#akusztikai-szivacs-allvany">Akusztikai szivacs és állvány</a></li>
+			<li><a href="#fejhallgato">Fejhallgató</a></li>
+			<li><a href="#mikrofon">Mikrofon</a></li>
+			<li><a href="#fulhallgato">Fülhallgató</a></li>
+			<li><a href="#hangrogzito">Hangrögzítő</a></li>
+			<li><a href="#midi-billentyuzet">MIDI billentyűzet</a></li>
+			<li><a href="#daw-szoftver-zeneirashoz">DAW studio szoftver zeneírásra</a></li>
+			<li><a href="#daw-szoftver-mixingre-masteringre">DAW studio szoftver mixing és masteringre</a></li>
+			<li><a href="#olcso-pluginek">Olcsó pluginek</a></li>
+			<li><a href="#ingyenes-pluginek">Ingyenes pluginek</a></li>
+			<li><a href="#ingyenes-hangmintak">Ingyenes hangminták</a></li>
+			<li><a href="#youtube-csatornak">Youtube csatornák mixingre, masteringre</a></li>
+			<li><a href="#magazinok">Magazinok</a></li>
+			<li><a href="#konyvek">Könyvek</a></li>
+			<li><a href="#egeszseges-szek">Egészséges szék studiózáshoz</a></li>
+		</ul>
+
     <p>Az alábbiakban összeírtam néhány választ kezdőknek, hogy egyszerűbb legyen dönteni.</p>
 
    <div>
      <div class="col-md-8 nopadding">
-        <h3>Milyen számítógépet vegyek zenei célokra?</h3>
+        <h3 id="szamitogep-zenei-celra">Milyen számítógépet vegyek zenei célokra?</h3>
         <p>Konfig tipp, érdemes minden alkatrészből a legújabb modelleket vásárolni:</p>
         <ul>
           <li>Intel i5 vagy i7 processzor</li>
@@ -34,7 +57,7 @@
 
     <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen kezdő hangkártyát vegyek?</h3>
+        <h3 id="hangkartya">Milyen kezdő hangkártyát vegyek?</h3>
         <ul>
           <li><a href="http://www.argep.hu/product_2304203.html" target="_blank">Steinberg UR22 (stabilabb driver Win 7, 8 és 10 alatt is)</a></li>
           <li><a href="http://www.argep.hu/product_1868549.html" target="_blank">Focusrite 2i2</a></li>
@@ -46,7 +69,7 @@
 
    <div>
      <div class="col-md-8 nopadding">
-        <h3>Milyen kezdő monitor hangfalat vegyek?</h3>
+        <h3 id="monitor-hangfal">Milyen kezdő monitor hangfalat vegyek?</h3>
         <p>A stúdió monitor hangfal 100 ezer per pártól kezdődik. Ez lenne a belépő szint. Hosszú távú befektetés, amivel sokáig el tudsz lenni a következő fejlesztésig. Értsd: 5-10 évig.</p>
         <p>A Mackie mellett: stabil mélyek, érthető közép és magas. A Yamaha mellett: kevés mély, pontosabb közép.</p>
         <p>A Focal mellett: drágább, de az előbbieknél pontosabb lehallgatás.</p>
@@ -63,7 +86,7 @@
 
     <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen akusztikai szivacsot vagy állványt vegyek a hangfal alá?</h3>
+        <h3 id="akusztikai-szivacs-allvany">Milyen akusztikai szivacsot vagy állványt vegyek a hangfal alá?</h3>
         <ul>
           <li>
             <a href="http://www.argep.hu/main.aspx?suche=Auralex+MoPAD" target="_blank">Auralex MoPAD 4</a>
@@ -79,7 +102,7 @@
 
     <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen fejhallgatót vegyek?</h3>
+        <h3 id="fejhallgato">Milyen fejhallgatót vegyek?</h3>
         <p>Egy jó fejes 45-50 ezer Ft-tól kezdődik, ezzel viszont akár 6-7 évig is el vagy, ha vigyázol rájuk.</p>
         <p>A <strong>nyitott fejesek előnye</strong>, hogy órákon át kényelmes használni őket. A zártaknál pedig érdemes 30-40 percenként szünetet tartani.</p>
         <ul>
@@ -105,7 +128,7 @@
 
     <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen kezdő mikrofont vegyek?</h3>
+        <h3 id="mikrofon">Milyen kezdő mikrofont vegyek?</h3>
         <p>A mikrofonnál figyelj arra, ha extra tápellátásra (+48V fantomtáp) van szüksége, pl. kondenzátoros mikrofon. AT 2020. Valamint a kondenzátoros mikrofon érzékenyebb hangerőre is a dinamikushoz képest.</p>
         <ul>
           <li><a href="http://www.argep.hu/product_368287.html" target="_blank">Shure SM57 / hangszer mikrofon</a></li>
@@ -116,7 +139,7 @@
       </div>
     </div>
 
-    <h3>Milyen olcsó fülhallgatót vegyek?</h3>
+    <h3 id="fulhallgato">Milyen olcsó fülhallgatót vegyek?</h3>
 
     <p>
       <a href="https://www.arukereso.hu/fulhallgato-fejhallgato-c3109/sennheiser/mx-170-p44071477/" target="_blank">Sennheiser MX 170</a>
@@ -125,7 +148,7 @@
     <div>
       <div class="col-md-8 nopadding">
 
-        <h3>Milyen hordozható hangrögzítőt vegyek?</h3>
+        <h3 id="hangrogzito">Milyen hordozható hangrögzítőt vegyek?</h3>
         <ul>
           <li>
             <a href="http://www.argep.hu/product_1354852.html" target="_blank">Zoom H1 MB</a>
@@ -141,7 +164,7 @@
 
     <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen MIDI billentyűzetet vegyek?</h3>
+        <h3 id="midi-billentyuzet">Milyen MIDI billentyűzetet vegyek?</h3>
 
         <ul>
           <li><a href="http://www.argep.hu/main.aspx?suche=Miditech+MIDISTART+MUSIC+49&x=5&y=19" target="_blank">Miditech MIDISTART MUSIC 49</a></li>
@@ -181,7 +204,7 @@
 
    <div>
      <div class="col-md-8 nopadding">
-        <h3>Milyen studio programot / DAW használjak kimondottan mixingre és masteringre?</h3>
+        <h3 id="daw-szoftver-mixingre-masteringre">Milyen studio programot / DAW használjak kimondottan mixingre és masteringre?</h3>
         <ul>
           <li><a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a> (tipp)</li>
           <li><a href="http://www.steinberg.net/en/products/cubase/start.html" target="_blank">Steinberg Cubase Pro</a> (tipp)</li>
@@ -196,7 +219,7 @@
 
    <div>
      <div class="col-md-8 nopadding">
-        <h3>Milyen studio programot / DAW használjak kimondottan zeneszerzésre?</h3>
+        <h3 id="daw-szoftver-zeneirashoz">Milyen studio programot / DAW használjak kimondottan zeneszerzésre?</h3>
 
         <p>Amilyet szeretnél! A hangzás a használt hangmintákon, plugineken és mixingen fog múlni, és nem a studio programon.</p>
         <p><strong>Válassz fegyvert!</strong> :)</p>
@@ -244,10 +267,10 @@
      <div class="col-md-4 nopadding">
      </div>
    </div>
-  
+
    <div>
      <div class="col-md-8 nopadding">
-      <h3>Milyen olcsó pluginek vannak?</h3>
+      <h3 id="olcso-pluginek">Milyen olcsó pluginek vannak?</h3>
 
       <p>
         <a href="http://www.musicradar.com/computermusic/cm-plugins-full-list-of-our-exclusive-free-vst-au-plugin-instruments-and-effects-571808" target="_blank">CM studio plugins (a magazin mellé jár kb 3000 dollár értékű plugin csomag)</a>
@@ -257,7 +280,7 @@
      </div>
    </div>
 
-    <h3>Hol találok ingyenes plugineket?</h3>
+    <h3 id="ingyenes-pluginek">Hol találok ingyenes plugineket?</h3>
     <ul>
       <li>
         <a href="https://bedroomproducersblog.com/free-vst-plugins/" target="_blank">Bedroom Producer Blog</a>
@@ -270,7 +293,7 @@
 
    <div>
      <div class="col-md-8 nopadding">
-      <h3>Hol találok ingyenes hangmintákat?</h3>
+      <h3 id="ingyenes-hangmintak">Hol találok ingyenes hangmintákat?</h3>
       <ul>
         <li><a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820" target="_blank">SampleRadar</a></li>
         <li><a href="https://bedroomproducersblog.com/free-samples/" target="_blank">Bedroom Producer Blog</a></li>
@@ -283,7 +306,7 @@
 
      <div>
        <div class="col-md-8 nopadding">
-        <h3>Milyen YouTube csatornákat nézzek mixing és mastering témában?</h3>
+        <h3 id="youtube-csatornak">Milyen YouTube csatornákat nézzek mixing és mastering témában?</h3>
           <ul>
             <li><a href="https://www.youtube.com/user/ProducerDjhu" target="_blank">Sonic School (magyar)</a></li>
             <li><a href="https://www.youtube.com/user/iamproschool" target="_blank">impro (magyar)</a></li>
@@ -298,7 +321,7 @@
      </div>
       <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen print és online magazinokat olvassak?</h3>
+        <h3 id="magazinok">Milyen print és online magazinokat olvassak?</h3>
         <ul>
           <li><a href="https://www.soundonsound.com/" target="_blank">Sound On Sound</a></li>
           <li><a href="http://www.musicradar.com/computermusic" target="_blank">Computer Music</a></li>
@@ -311,7 +334,7 @@
 
     <div>
       <div class="col-md-8 nopadding">
-        <h3>Milyen könyveket olvassak mixing és mastering témában?</h3>
+        <h3 id="konyvek">Milyen könyveket olvassak mixing és mastering témában?</h3>
         <ul>
           <li><a href="https://www.amazon.com/Mixing-Secrets-Small-Studio-Senior/dp/0240815807" target="_blank">Mixing Secrets for the Small Studio</a></li>
           <li><a href="https://www.amazon.com/Mixing-Engineers-Handbook-Bobby-Owsinski/dp/128542087X/" target="_blank">The Mixing Engineer's Handbook</a></li>
@@ -360,12 +383,16 @@
       </div>
     </div>
 
-    <h3>Milyen magántanárt ajánlasz zeneelméletre és szerzésre?</h3>
-    <p><a href="https://tutimagantanar.hu/keres" target="_blank">TUTI magántanár</a></p>
     <h3>Milyen producer és mixing tanfolyamot ajánlasz?</h3>
      <ul>
         <li>
           <a href="http://sonicschool.hu/" target="_blank">Sonic School</a>
+        </li>
+				<li>
+          <a href="http://1gschool.hu/" target="_blank">1G School</a>
+        </li>
+				<li>
+          <a href="http://improschool.com/" target="_blank">imPro School </a>
         </li>
        <li>
          <a href="https://www.lynda.com/Audio-Music-training-tutorials/20-0.html" target="_blank">Lynda</a>
@@ -373,7 +400,7 @@
      </ul>
 
     <div>
-        <h3>Milyen széket használjak, hogy ne menjen tönkre a hátam?</h3>
+        <h3 id="egeszseges-szek">Milyen széket használjak, hogy ne menjen tönkre a hátam?</h3>
 
         <p>A standard a Herman Miller profi székek, de egy vagyonba kerülnek, alternativ megoldás lehet a fitlabda.</p>
 
