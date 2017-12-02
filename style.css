@@ -2326,7 +2326,7 @@ body.search-no-results .page-header {
  */
 
 .site-footer {
-	padding: 0 7.6923% 1.75em;
+	padding: 1rem 7.6923% 1.75rem;
 }
 
 .site-info {
@@ -3263,7 +3263,7 @@ p > video {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 0 4.5455% 3.5em;
+		padding: 1rem 4.5455% 3.5rem;
 	}
 
 	.site-footer .social-navigation {
@@ -4902,7 +4902,7 @@ ul, ol {
 
 .want-more {
   border: .2rem dashed orange;
-  margin: 1rem auto 5rem;
+  margin: 1rem 1rem 5rem;
   padding: .5rem 1rem;
 }
 
@@ -4954,7 +4954,7 @@ footer blockquote {
 .site-info {
   color: #fff;
   font-size: 1rem;
-  margin: 1rem auto 0;
+  margin: 0 auto;
 }
 
 .about-section h4 {
