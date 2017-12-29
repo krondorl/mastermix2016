@@ -14,7 +14,7 @@
     </ul>
 
     <h2>Ügyféllista</h2>
-    <p>A több mint 170 mastering során többek között a következő művészek zenéin dolgoztam:</p>
+    <p>A több mint 190 mastering során többek között a következő művészek zenéin dolgoztam:</p>
 
     <div class="container nopadding">
       <div class="col-sm-6 col-xs-12 nopadding">
@@ -42,6 +42,7 @@
       </div>
       <div class="col-sm-6 col-xs-12 nopadding">
         <ul>
+					<li>John Drummer - mastering</li>
           <li>Benjamin Witt - mixing, mastering, production</li>
           <li>DJ Rakoczi - mastering</li>
           <li>Dedicated - mixing, mastering</li>
@@ -346,6 +347,9 @@
     <h2>Véleményezés, dokumentációval</h2>
     <p>Egy A4-es PDF oldalon írom össze részletesen az észrevételeim. Mik az erősségek, hiányosságok és mit lehetne javítani a zenéden.</p>
     <p><strong>1.500 Ft / dal (előre utalással)</strong></p>
+		<p>
+			<a href="https://www.dropbox.com/s/fymdv4k03ca7rwr/zenei-szakmai-velemeny-esettanulmany.pdf?dl=0" target="_blank" rel="noopener">Töltsd le az Esettanulmányt Dropboxról, PDF formátumban, 33 KB (alul No thanks, majd Direct Download)<br><img src="<?php echo get_template_directory_uri(); ?>/../mastermix2016/img/esettanulmany-kep.png " alt="Esettanulmány fotó"></a>
+		</p>
 
     <h2>Beküldés</h2>
     <p>Kérlek tartsd be az alábbiakat:</p>
